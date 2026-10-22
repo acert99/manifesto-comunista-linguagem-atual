@@ -71,36 +71,36 @@ Mesmo assim, toda atualização de linguagem envolve decisões editoriais. Por i
 | Versão para navegador | [index.html](./index.html) |
 | Edição-base usada no projeto | [identificação e verificação da fonte](./sources/README.md) |
 | Metodologia e transparência | [NOTICE.md](./NOTICE.md) |
+| Comparação entre versões | [COMPARISON.md](./COMPARISON.md) |
+| Fonte cruzada — Marxists Internet Archive | [sources/marxists-internet-archive.md](./sources/marxists-internet-archive.md) |
 
 
-## Comparativo entre a edição-base e a versão atual
+## Comparação entre versões
 
-| Métrica | Edição-base | Versão em linguagem atual | Diferença |
-|---|---:|---:|---:|
-| Páginas | 68 | 16 | -76,5% |
-| Palavras | aproximadamente 9.800 | 6.100 | aproximadamente -37,8% |
-| Tamanho do PDF | 383 KB | 61 KB | aproximadamente -84% |
-| Média de palavras por página | aproximadamente 144 | 381 | +165% |
-| Estrutura principal | introdução + 4 partes | 4 partes | a introdução original não está reproduzida integralmente |
+A auditoria foi ampliada com uma segunda fonte: a edição inglesa disponível no **Marxists Internet Archive**, baseada na tradução de Samuel Moore realizada em cooperação com Friedrich Engels em 1888.
 
-### Nota metodológica sobre a contagem
+Isso corrigiu uma fragilidade da comparação anterior: **número de páginas do arquivo não é o mesmo que número de páginas do Manifesto**.
 
-A contagem de páginas e o tamanho dos arquivos são exatos.
+O PDF do Marxists Internet Archive possui 68 páginas, mas o texto principal do Manifesto ocupa aproximadamente 21 páginas. O restante reúne introdução editorial, sete prefácios históricos, textos preparatórios e documentos relacionados.
 
-A contagem da versão atual também é exata, calculada diretamente sobre o arquivo Markdown.
+| Item | Edição-base PT | MIA — PDF completo | MIA — Manifesto | v1 contemporânea |
+|---|---:|---:|---:|---:|
+| Páginas do arquivo | 68 | 68 | ~21 | 16 |
+| Idioma | português | inglês | inglês | português |
+| Partes principais | 4 | 4 | 4 | 4 |
+| Prefácios e anexos | precisam ser separados na auditoria | extensos | não | não |
+| Preâmbulo antes da Parte I | em verificação na edição-base | sim | sim | não |
+| Palavras da v1 | — | — | — | 6.100 |
 
-Já o PDF-base da edição Ridendo Castigat Mores possui um mapeamento de fontes antigo que impede a extração textual confiável. Por isso, a quantidade de palavras da edição-base é uma **estimativa obtida por reconhecimento visual/OCR de uma amostra ampla das páginas**, e deve ser lida como aproximada.
+A comparação textual também mostrou que a v1 está **condensada**. Ela preserva os principais conceitos e a estrutura geral, mas omite ou reúne passagens argumentativamente distintas.
 
-### O que esse comparativo revela
+Por isso, a classificação editorial mais precisa hoje é:
 
-A diferença não é apenas de diagramação.
+> **adaptação condensada em português contemporâneo, preservando o vocabulário conceitual central.**
 
-A versão atual possui significativamente menos palavras do que a edição-base. Portanto, no estado atual deste repositório, é mais correto descrevê-la como uma **adaptação condensada em português contemporâneo**, preservando os principais conceitos e a linha geral do argumento, do que como uma modernização linha a linha do texto integral.
+O objetivo da próxima versão é chegar a uma modernização **integral e parágrafo a parágrafo**, sem resumir o conteúdo.
 
-Essa distinção é importante para a transparência do projeto.
-
-O objetivo de uma próxima revisão deve ser aproximar a versão contemporânea de uma correspondência **1:1 com a edição-base**, modernizando a linguagem sem resumir passagens, eliminar argumentos ou omitir seções.
-
+Veja a auditoria detalhada em [COMPARISON.md](./COMPARISON.md) e a documentação da fonte inglesa em [sources/marxists-internet-archive.md](./sources/marxists-internet-archive.md).
 
 ## Minha posição
 

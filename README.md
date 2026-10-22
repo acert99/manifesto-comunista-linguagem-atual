@@ -132,17 +132,22 @@ Cópia versionada:
 | Conteúdo condensado | Não | Não intencionalmente | **Sim** | **Não intencionalmente** |
 | Vocabulário marxista preservado | Sim | Sim | Sim | Sim |
 | Função no projeto | Controle histórico | Base portuguesa | Registro da primeira tentativa | Versão atual |
-| Palavras no arquivo do projeto | — | extração não confiável | **6.037** | **10.544** |
-| Blocos de texto | — | — | **279** | **451** |
-| PDF gerado pelo projeto | — | arquivo-base | **16 páginas** | **32 páginas** |
+| Palavras — Manifesto principal | **11.450** | **10.509** | **6.100** | **10.665** |
+| Caracteres — Manifesto principal | **72.768** | **68.835** | **42.043** | **72.790** |
+| Páginas ocupadas pelo Manifesto no arquivo | **21** (pp. 14–34) | **61** (pp. 5–65) | **16** | **32** |
+| Arquivo completo | **37.053 palavras / 68 páginas** | **10.878 palavras / 68 páginas** | **6.100 palavras / 16 páginas** | **10.665 palavras / 32 páginas** |
 
 ### Sobre as métricas
 
-As métricas da v1 e da v2 são reproduzíveis porque foram calculadas diretamente sobre os arquivos Markdown do repositório.
+Em outubro de 2026, os dois PDFs de referência foram convertidos para DOCX com camada de texto utilizável. Isso permitiu substituir as estimativas anteriores por contagens reproduzíveis.
 
-A edição-base em português possui um mapeamento interno de fontes que dificulta a extração automática confiável. Por isso, este projeto evita apresentar uma contagem de palavras dessa edição como se fosse exata.
+O critério usado foi o mesmo para as quatro versões: contagem de tokens de palavra por expressão regular Unicode, considerando apenas o **Manifesto principal** quando o arquivo contém material suplementar.
 
-Também não se deve comparar diretamente o total de páginas do PDF do Marxists Internet Archive com o PDF gerado neste projeto: o arquivo do MIA inclui, além do Manifesto, introdução editorial, prefácios históricos e documentos complementares.
+A edição inglesa possui **37.053 palavras no arquivo completo**, mas somente **11.450 palavras pertencem ao Manifesto propriamente dito**. O restante corresponde a introdução editorial, prefácios e documentos complementares.
+
+A edição-base em português possui **10.878 palavras no arquivo completo** e **10.509 no Manifesto principal**.
+
+A proximidade quantitativa entre a edição-base em português (**10.509 palavras**) e a v2 (**10.665 palavras**) é um indício adicional de que a v2 deixou de ser uma versão condensada. Isso não prova fidelidade por si só; a conferência textual continua sendo necessária.
 
 Para uma auditoria mais detalhada, consulte:
 

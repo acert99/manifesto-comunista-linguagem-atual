@@ -155,50 +155,70 @@ Isso é importante porque impede duas leituras simplificadoras:
 
 Ao mesmo tempo, eles recusaram reescrever retroativamente o Manifesto, tratando-o como documento histórico.
 
-## 6. Comparativo quantitativo: como ler os números
+## 6. Comparativo quantitativo
 
-| Item | Edição-base PT | MIA — PDF completo | MIA — Manifesto principal | v1 contemporânea |
+Com os dois PDFs convertidos para DOCX, foi possível substituir as estimativas anteriores por contagens reproduzíveis.
+
+### Manifesto principal
+
+| Métrica | Inglês 1888 | Edição-base PT | V1 condensada | V2 integral |
 |---|---:|---:|---:|---:|
-| Páginas do arquivo | 68 | 68 | ~21 | 16 |
-| Idioma | português | inglês | inglês | português |
-| Material complementar | a verificar por seção | extenso | não | não |
-| Prefácios históricos | a verificar por seção | 7 | não | não |
+| Palavras | **11.450** | **10.509** | **6.100** | **10.665** |
+| Caracteres | **72.768** | **68.835** | **42.043** | **72.790** |
+| Páginas ocupadas no arquivo | **21** (pp. 14–34) | **61** (pp. 5–65) | **16** | **32** |
 | Partes principais | 4 | 4 | 4 | 4 |
-| Preâmbulo “espectro” | presente na tradição textual; conferir edição | sim | sim | não |
-| Palavras | estimativa anterior não deve ser tratada como definitiva | não comparável sem separar anexos | contagem futura | 6.100 |
+| Preâmbulo | sim | sim | não | sim |
 
-### Correção metodológica
+### Arquivo completo
 
-A comparação anterior deste projeto usava “68 páginas” como se todo o PDF de referência pudesse ser comparado diretamente às 16 páginas da adaptação.
+| Arquivo | Palavras | Páginas |
+|---|---:|---:|
+| Inglês — PDF/DOCX completo | **37.053** | **68** |
+| Português — PDF/DOCX completo | **10.878** | **68** |
+| V1 | **6.100** | **16** |
+| V2 | **10.665** | **32** |
 
-A referência do MIA mostra por que isso é inadequado: uma edição pode ter 68 páginas porque reúne **muito mais do que o Manifesto propriamente dito**.
+A diferença entre **37.053 palavras** no arquivo inglês completo e **11.450 palavras** no Manifesto principal mostra por que o arquivo inteiro não pode ser comparado diretamente com as adaptações. O volume inglês inclui introdução editorial, sete prefácios, textos preparatórios e outros documentos históricos.
 
-A partir desta revisão, as comparações devem separar texto principal, prefácios e material suplementar.
+Na edição portuguesa, o Manifesto propriamente dito começa na página 5 e termina na página 65; por isso quase todo o volume corresponde ao texto principal, embora o arquivo também contenha capa, ficha editorial, índice e páginas finais.
+
+### Diferenças percentuais
+
+- edição-base em português vs. inglês 1888: **-8,2%** em palavras;
+- V1 vs. edição-base em português: **-42,0%**;
+- V2 vs. edição-base em português: **+1,5%**;
+- V2 vs. inglês 1888: **-6,9%**;
+- V2 vs. V1: **+74,8%**.
+
+O dado mais importante para o histórico do projeto é a aproximação entre a edição-base em português (**10.509 palavras**) e a V2 (**10.665 palavras**). Isso não demonstra, isoladamente, equivalência textual, mas elimina a forte discrepância quantitativa que caracterizava a V1.
+
+### Método de contagem
+
+As quatro versões foram contadas com o mesmo critério: expressão regular Unicode aplicada ao texto digital, contabilizando tokens de palavra. Os limites do Manifesto principal foram definidos pelo preâmbulo e pela frase final, excluindo material editorial ou suplementar.
 
 ## 7. Classificação editorial da versão atual
 
-Com base na auditoria cruzada, a descrição mais precisa da versão atual é:
+Com a V2 concluída, a versão principal do repositório passa a ser descrita como:
 
-> **Adaptação condensada em português contemporâneo, baseada no Manifesto Comunista e preservando seu vocabulário conceitual central.**
+> **Adaptação integral em português contemporâneo, reconstruída com conferência cruzada da edição-base em português e da tradução inglesa de 1888.**
 
-Ainda não é adequado descrevê-la como:
+A V1 continua classificada como adaptação condensada e é preservada em `versions/v1-condensada.md` para auditoria.
 
-> “modernização integral, parágrafo a parágrafo, do texto completo”.
+## 8. Resultado da v2
 
-## 8. Meta para uma v2
+A meta definida na auditoria anterior foi executada na V2:
 
-A próxima versão deverá buscar correspondência estrutural muito mais rigorosa:
+- preâmbulo incluído;
+- argumentos substantivos restaurados;
+- exemplos históricos relevantes preservados;
+- objeções e respostas mantidas;
+- dez medidas da Parte II preservadas;
+- redução da fusão de parágrafos argumentativamente distintos;
+- conferência simultânea contra a edição-base em português e a tradução inglesa de 1888.
 
-- incluir o preâmbulo;
-- manter todos os argumentos substantivos;
-- manter exemplos históricos quando forem parte do raciocínio;
-- preservar ironias e objeções respondidas pelos autores;
-- manter os dez pontos da Parte II sem parafrasear além do necessário;
-- não fundir parágrafos argumentativamente distintos;
-- marcar notas históricas quando a linguagem atual não for suficiente;
-- comparar cada seção simultaneamente com a edição-base em português e com a tradução inglesa de 1888.
+A V2 possui **10.665 palavras**, contra **10.509** na edição-base em português e **11.450** no texto inglês de 1888.
 
-O objetivo da v2 será:
+O objetivo editorial permanece:
 
 > **modernizar a forma sem condensar o conteúdo.**
 
@@ -218,23 +238,3 @@ Serve para tornar visíveis:
 Quanto mais auditável for a atualização, mais coerente ela será com a proposta original deste repositório: **conhecer o argumento antes de criticá-lo**.
 
 
-# Atualização — v2 integral
-
-A auditoria descrita acima resultou na reconstrução da versão principal.
-
-## v1 x v2
-
-| Métrica | v1 condensada | v2 integral |
-|---|---:|---:|
-| Palavras (regex Unicode) | 6.037 | 10.544 |
-| Caracteres | 42.042 | 72.787 |
-| Blocos de texto | 279 | 451 |
-| Preâmbulo | omitido | presente |
-| Partes principais | 4 | 4 |
-| PDF gerado | 16 páginas | 32 páginas |
-
-A v2 foi preparada com a tradução inglesa de 1888 de Samuel Moore, realizada em cooperação com Friedrich Engels, como controle principal de cobertura. A edição Ridendo Castigat Mores/eBooksBrasil foi usada como referência cruzada de terminologia em português.
-
-A v2 não busca suavizar formulações que hoje possam soar radicais, polêmicas ou historicamente datadas. O critério foi modernizar a forma sem esconder o conteúdo.
-
-A v1 foi preservada em [versions/v1-condensada.md](./versions/v1-condensada.md). A v2 está em [versions/v2-integral.md](./versions/v2-integral.md) e é também a versão publicada em [manifesto.md](./manifesto.md).

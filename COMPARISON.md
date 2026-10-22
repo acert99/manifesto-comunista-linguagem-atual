@@ -216,3 +216,25 @@ Serve para tornar visíveis:
 - contexto histórico.
 
 Quanto mais auditável for a atualização, mais coerente ela será com a proposta original deste repositório: **conhecer o argumento antes de criticá-lo**.
+
+
+# Atualização — v2 integral
+
+A auditoria descrita acima resultou na reconstrução da versão principal.
+
+## v1 x v2
+
+| Métrica | v1 condensada | v2 integral |
+|---|---:|---:|
+| Palavras (regex Unicode) | 6.037 | 10.544 |
+| Caracteres | 42.042 | 72.787 |
+| Blocos de texto | 279 | 451 |
+| Preâmbulo | omitido | presente |
+| Partes principais | 4 | 4 |
+| PDF gerado | 16 páginas | 32 páginas |
+
+A v2 foi preparada com a tradução inglesa de 1888 de Samuel Moore, realizada em cooperação com Friedrich Engels, como controle principal de cobertura. A edição Ridendo Castigat Mores/eBooksBrasil foi usada como referência cruzada de terminologia em português.
+
+A v2 não busca suavizar formulações que hoje possam soar radicais, polêmicas ou historicamente datadas. O critério foi modernizar a forma sem esconder o conteúdo.
+
+A v1 foi preservada em [versions/v1-condensada.md](./versions/v1-condensada.md). A v2 está em [versions/v2-integral.md](./versions/v2-integral.md) e é também a versão publicada em [manifesto.md](./manifesto.md).

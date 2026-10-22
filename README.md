@@ -67,9 +67,9 @@ Mesmo assim, toda atualização de linguagem envolve decisões editoriais. Por i
 | Formato | Arquivo |
 |---|---|
 | Versão atualizada em Markdown | [manifesto.md](./manifesto.md) |
-| Versão atualizada em PDF | [manifesto.pdf](./manifesto.pdf) |
+| Versão atualizada em PDF | arquivo binário preparado; consulte a observação abaixo |
 | Versão para navegador | [index.html](./index.html) |
-| Edição-base usada no projeto | [sources/manifesto-comunista-edicao-base.pdf](./sources/manifesto-comunista-edicao-base.pdf) |
+| Edição-base usada no projeto | [identificação e verificação da fonte](./sources/README.md) |
 | Metodologia e transparência | [NOTICE.md](./NOTICE.md) |
 
 ## Minha posição
@@ -94,7 +94,7 @@ O ChatGPT foi utilizado para atualizar construções linguísticas antigas, redu
 
 A instrução central durante o processo foi **não substituir conceitos teóricos por equivalentes simplificados**.
 
-Para permitir auditoria, a edição-base utilizada está disponível na pasta [sources](./sources/).
+Para permitir auditoria, a edição-base utilizada está identificada na pasta [sources](./sources/), com o nome do arquivo e o hash SHA-256. O PDF original foi preservado no pacote do projeto; o conector usado aqui não publica binários diretamente.
 
 Veja também o [NOTICE.md](./NOTICE.md).
 
@@ -107,3 +107,12 @@ Use-a como porta de entrada e, sempre que uma passagem parecer especialmente imp
 Esse é, no fundo, o princípio deste projeto:
 
 **não terceirize a compreensão daquilo que você pretende criticar.**
+
+
+## Arquivos binários
+
+Os PDFs foram gerados e preservados no pacote completo do projeto, mas o conector do GitHub disponível nesta sessão publica arquivos de texto e Git blobs a partir de conteúdo textual, sem receber diretamente os bytes dos arquivos locais. Por isso, os PDFs não foram apresentados como se estivessem no repositório quando não estão.
+
+SHA-256 da versão atualizada em PDF: `7f87931833e0a067368fe55151745808c019d1b9df2aa8077fc999e1cd8a8380`
+
+SHA-256 da edição-base: `3277d5bbf04ecba777e65a7df00c5b2c8c18255b157330d6563292bc0118abd4`

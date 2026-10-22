@@ -1,585 +1,959 @@
 # MANIFESTO COMUNISTA
 
-## Versão em linguagem atual
+## Versão integral em português contemporâneo — v2
 
-*Karl Marx e Friedrich Engels*
+**Karl Marx e Friedrich Engels**
 
-# Nota desta edição
+### Nota desta edição
 
-Esta versão atualiza a linguagem do Manifesto Comunista para o português contemporâneo, preservando seus conceitos, sua linha de raciocínio e sua estrutura. Termos como luta de classes, burguesia, proletariado, capital, propriedade privada, meios de produção e trabalho assalariado são mantidos porque fazem parte do vocabulário teórico da obra.
+Esta versão foi preparada para tornar o *Manifesto do Partido Comunista* mais legível em português contemporâneo sem resumir seus argumentos nem substituir seu vocabulário teórico central.
 
-O objetivo não é adaptar Marx e Engels às ideias de hoje, mas tornar mais direta a leitura de um texto do século XIX.
+A redação foi construída de forma independente, tomando como controle principal a tradução inglesa de 1888 feita por Samuel Moore em cooperação com Friedrich Engels, disponível no Marxists Internet Archive, e usando a edição brasileira Ridendo Castigat Mores/eBooksBrasil como referência cruzada de terminologia em português.
+
+Termos como **luta de classes**, **burguesia**, **proletariado**, **capital**, **meios de produção**, **relações de produção**, **trabalho assalariado**, **propriedade privada burguesa**, **exploração** e **antagonismo de classe** são preservados. Quando a formulação original é dura, polêmica ou historicamente datada, ela não é suavizada: a atualização é de linguagem, não de conteúdo.
+
+As notas marcadas como **Nota de Engels** correspondem a esclarecimentos presentes na edição inglesa de 1888 ou em edições posteriores por ele anotadas.
+
+---
+
+## Preâmbulo
+
+Um espectro ronda a Europa: o espectro do comunismo.
+
+Todas as potências da velha Europa formaram uma espécie de aliança sagrada para expulsar esse espectro: o papa e o czar, Metternich e Guizot, os radicais franceses e os policiais alemães.
+
+Que partido de oposição nunca foi acusado de comunista por seus adversários no poder? E que oposição, por sua vez, nunca devolveu essa acusação de comunismo tanto contra adversários mais avançados quanto contra adversários reacionários?
+
+Desses fatos resultam duas conclusões.
+
+Primeiro: o comunismo já é reconhecido por todas as potências europeias como uma força.
+
+Segundo: chegou a hora de os comunistas apresentarem abertamente, diante do mundo inteiro, suas ideias, seus objetivos e suas tendências, contrapondo à lenda do “espectro do comunismo” um manifesto do próprio partido.
+
+Com esse objetivo, comunistas de diferentes nacionalidades reuniram-se em Londres e redigiram o manifesto a seguir, destinado a ser publicado em inglês, francês, alemão, italiano, flamengo e dinamarquês.
 
 # I. BURGUESES E PROLETÁRIOS
 
-A história de todas as sociedades que existiram até hoje tem sido a história da luta de classes.
+A história de todas as sociedades que existiram até hoje — isto é, toda a história registrada — é a história da **luta de classes**.
 
-Homem livre e escravo, patrício e plebeu, senhor feudal e servo, mestre de corporação e aprendiz — em resumo, opressores e oprimidos — sempre estiveram em oposição. Essa oposição assumiu formas diferentes em cada época, mas repetidamente levou a conflitos, algumas vezes abertos, outras vezes silenciosos. Esses conflitos terminaram, em certos momentos, com uma transformação revolucionária de toda a sociedade; em outros, com a destruição das classes em luta.
+Homem livre e escravo, patrício e plebeu, senhor feudal e servo, mestre de corporação e companheiro de ofício: em resumo, opressores e oprimidos sempre estiveram em oposição. Travaram uma luta contínua, às vezes escondida, às vezes aberta, que terminou repetidamente ou por uma transformação revolucionária de toda a sociedade ou pela ruína comum das classes em conflito.
 
-Nas épocas anteriores, quase sempre encontramos uma sociedade organizada em diferentes camadas. Na Roma antiga havia patrícios, cavaleiros, plebeus e escravos. Na Idade Média havia senhores feudais, vassalos, mestres de corporação, aprendizes e servos. Dentro de cada uma dessas classes ainda existiam outras subdivisões.
+Nas épocas anteriores da história, encontramos quase por toda parte uma organização complexa da sociedade em diferentes ordens e uma multiplicidade de posições sociais. Na Roma antiga havia patrícios, cavaleiros, plebeus e escravos. Na Idade Média havia senhores feudais, vassalos, mestres de corporação, companheiros, aprendizes e servos. E, dentro de quase todas essas classes, existiam ainda outras subdivisões.
 
-A sociedade burguesa moderna, que surgiu das ruínas da sociedade feudal, não acabou com os antagonismos de classe. Ela criou novas classes, novas condições de opressão e novas formas de luta. Mas, ao mesmo tempo, simplificou esses antagonismos.
+A sociedade burguesa moderna, nascida das ruínas da sociedade feudal, não eliminou os antagonismos de classe. Apenas colocou novas classes, novas condições de opressão e novas formas de luta no lugar das antigas.
 
-Cada vez mais, a sociedade se divide em dois grandes campos opostos, em duas grandes classes diretamente enfrentadas: burguesia e proletariado.
+Nossa época, a época da burguesia, possui porém uma característica própria: ela simplificou os antagonismos de classe. Cada vez mais, a sociedade inteira se divide em dois grandes campos inimigos, em duas grandes classes diretamente opostas: **burguesia e proletariado**.
 
-Dos servos da Idade Média surgiram os habitantes livres das primeiras cidades. Desses grupos urbanos começaram a se desenvolver os primeiros elementos da burguesia.
+Dos servos da Idade Média surgiram os habitantes livres das primeiras cidades. Dessa população urbana desenvolveram-se os primeiros elementos da burguesia.
 
-A descoberta da América e a abertura da rota marítima para as Índias criaram um campo muito maior para a burguesia em ascensão. O comércio com as colônias, a multiplicação dos meios de troca e o crescimento das mercadorias deram um impulso até então desconhecido ao comércio, à navegação e à indústria.
+A descoberta da América e a abertura da rota marítima ao redor da África ofereceram à burguesia em ascensão um novo campo de ação. Os mercados das Índias Orientais e da China, a colonização da América, o comércio com as colônias e o aumento dos meios de troca e das mercadorias deram ao comércio, à navegação e à indústria um impulso até então desconhecido. Com isso, aceleraram o desenvolvimento do elemento revolucionário existente dentro da sociedade feudal em decomposição.
 
-O antigo sistema feudal de produção já não conseguia atender à demanda crescente dos novos mercados. A manufatura tomou seu lugar. O mestre das antigas corporações foi substituído pelo industrial manufatureiro, e a divisão do trabalho deixou de ocorrer apenas entre diferentes corporações para acontecer dentro de cada oficina.
+A antiga organização feudal da indústria, limitada por corporações fechadas, já não conseguia atender às necessidades criadas pelos novos mercados. A manufatura tomou seu lugar. O mestre de corporação foi substituído pelo industrial manufatureiro, e a divisão do trabalho entre diferentes corporações foi substituída pela divisão do trabalho dentro da própria oficina.
 
-Mas os mercados continuaram crescendo. A procura aumentou. A manufatura também passou a ser insuficiente.
+Mas os mercados continuaram crescendo e a procura continuou aumentando. A manufatura também se tornou insuficiente. Então o vapor e as máquinas revolucionaram a produção industrial. A grande indústria moderna substituiu a manufatura; no lugar dos antigos industriais de tamanho médio surgiram milionários industriais, chefes de verdadeiros exércitos de trabalhadores, os burgueses modernos.
 
-Então o vapor e as máquinas revolucionaram a produção industrial. A grande indústria moderna substituiu a manufatura. No lugar da classe média industrial surgiu a burguesia industrial moderna, dona de grandes capitais e responsável por verdadeiros exércitos de trabalhadores assalariados.
+A grande indústria criou o mercado mundial, para o qual a descoberta da América havia preparado o caminho. O mercado mundial acelerou enormemente o desenvolvimento do comércio, da navegação e das comunicações terrestres. Esse crescimento, por sua vez, impulsionou a expansão da indústria. À medida que indústria, comércio, navegação e ferrovias se expandiam, a burguesia também crescia, multiplicava seus capitais e empurrava para segundo plano as classes herdadas da Idade Média.
 
-A grande indústria criou o mercado mundial, preparado pela descoberta da América. Esse mercado acelerou enormemente o desenvolvimento do comércio, da navegação e dos meios de comunicação. E esse crescimento, por sua vez, impulsionou ainda mais a indústria.
+Vemos, portanto, que a própria burguesia moderna é resultado de um longo processo de desenvolvimento, de uma série de transformações nos modos de produção e de troca.
 
-À medida que a indústria, o comércio, a navegação e as ferrovias se expandiram, a burguesia também se desenvolveu. Seus capitais cresceram e ela empurrou para segundo plano as classes herdadas da Idade Média.
+Cada etapa desse desenvolvimento da burguesia foi acompanhada de um avanço político correspondente. Primeiro classe oprimida sob o domínio feudal; depois associação armada e autônoma nas comunas; em alguns lugares, república urbana independente; em outros, terceiro estado tributário da monarquia; mais tarde, no período manufatureiro, contrapeso à nobreza dentro das monarquias feudais ou absolutas e base principal das grandes monarquias em geral. Finalmente, com o estabelecimento da grande indústria e do mercado mundial, a burguesia conquistou para si a supremacia política exclusiva no Estado representativo moderno.
 
-Por isso, a própria burguesia moderna é resultado de um longo processo de desenvolvimento, de uma série de transformações nos modos de produção e de troca.
+O poder executivo do Estado moderno não passa, segundo o Manifesto, de um comitê que administra os interesses comuns de toda a classe burguesa.
 
-Cada etapa desse desenvolvimento foi acompanhada por um avanço político da burguesia.
+A burguesia desempenhou na história um papel profundamente revolucionário.
 
-Durante algum tempo, ela foi uma classe oprimida sob o domínio dos senhores feudais. Em outros momentos, organizou-se em comunidades autônomas. Em certos lugares formou repúblicas urbanas independentes; em outros, tornou-se o chamado terceiro estado tributário das monarquias. Depois, durante o período manufatureiro, serviu de contrapeso à nobreza dentro das monarquias e se tornou uma das principais bases dos grandes Estados modernos.
+Onde quer que tenha conquistado o poder, destruiu as relações feudais, patriarcais e tradicionais. Rompeu sem piedade os vínculos complexos que ligavam o homem feudal a seus “superiores naturais” e não deixou entre as pessoas outro vínculo predominante senão o interesse direto, o pagamento em dinheiro.
 
-Finalmente, com a criação da grande indústria e do mercado mundial, a burguesia conquistou para si o poder político predominante no Estado representativo moderno.
+Ela afogou o fervor religioso, o entusiasmo cavalheiresco e o sentimentalismo pequeno-burguês nas águas frias do cálculo egoísta. Transformou a dignidade pessoal em valor de troca e substituiu inúmeras liberdades conquistadas ou herdadas por uma única liberdade: a liberdade de comércio.
 
-O poder do Estado moderno, na visão apresentada neste manifesto, funciona como um comitê que administra os interesses comuns da classe burguesa.
+Em resumo, no lugar de uma exploração coberta por ilusões religiosas e políticas, colocou uma exploração aberta, direta, sem disfarces e brutal.
 
-A burguesia teve, historicamente, um papel profundamente revolucionário.
+A burguesia retirou a aura sagrada de todas as profissões até então consideradas veneráveis. Transformou médico, jurista, sacerdote, poeta e cientista em trabalhadores assalariados.
 
-Onde chegou ao poder, destruiu relações feudais, patriarcais e tradicionais. Rompeu muitos dos vínculos que ligavam as pessoas aos seus superiores naturais na velha sociedade e deixou em seu lugar, cada vez mais, relações mediadas pelo interesse material e pelo pagamento em dinheiro.
+Ela arrancou das relações familiares seu véu sentimental e as reduziu, em sua forma burguesa, a relações também determinadas pelo dinheiro.
 
-Ela transformou em relações calculadas muitas atividades antes cercadas por prestígio religioso, político ou profissional. Médicos, juristas, sacerdotes, poetas e estudiosos passaram cada vez mais a depender do trabalho remunerado.
+A burguesia mostrou que as demonstrações brutais de força admiradas pelos reacionários na Idade Média encontravam complemento numa enorme acomodação e inatividade. Foi a primeira a demonstrar o que a atividade humana pode produzir. Realizou obras que superaram as pirâmides do Egito, os aquedutos romanos e as catedrais góticas; conduziu expedições diferentes de todas as antigas migrações e cruzadas.
 
-A burguesia também retirou da família parte de sua antiga aparência sentimental e a colocou dentro das relações econômicas da sociedade moderna.
+A burguesia não pode existir sem revolucionar continuamente os instrumentos de produção e, com eles, as relações de produção e todas as relações sociais. Para as classes industriais anteriores, ao contrário, conservar sem mudanças o antigo modo de produção era condição de existência.
 
-Ela mostrou que a brutalidade que os reacionários admiravam no passado convivia com grande acomodação e dependência. E mostrou também o que a atividade humana pode produzir ao transformar continuamente as forças produtivas.
+A transformação constante da produção, o abalo permanente das relações sociais, a incerteza e a agitação contínuas distinguem a época burguesa de todas as anteriores. Relações antigas e cristalizadas, com suas concepções e ideias veneradas durante séculos, são dissolvidas. As novas envelhecem antes mesmo de se consolidarem.
 
-A burguesia não pode existir sem revolucionar constantemente os instrumentos de produção e, com eles, as relações de produção e o conjunto das relações sociais.
+Tudo o que parecia sólido se desfaz; tudo o que era considerado sagrado é profanado; e as pessoas são finalmente obrigadas a encarar com lucidez suas condições reais de vida e suas relações umas com as outras.
 
-Nas sociedades anteriores, a conservação das formas tradicionais de produção era uma condição de existência das antigas classes dominantes. Com a burguesia ocorre o contrário: a transformação constante da produção, a instabilidade e a mudança permanente se tornam características da época.
+A necessidade de ampliar continuamente os mercados para seus produtos empurra a burguesia por toda a superfície do planeta. Ela precisa instalar-se em toda parte, explorar em toda parte, estabelecer relações em toda parte.
 
-Relações estabelecidas há muito tempo se dissolvem. Ideias que pareciam eternas envelhecem antes mesmo de se consolidar. Tudo o que parecia sólido pode perder rapidamente sua estabilidade.
+Ao explorar o mercado mundial, a burguesia deu caráter cosmopolita à produção e ao consumo de todos os países. Para grande desespero dos reacionários, retirou da indústria grande parte de sua antiga base nacional. Indústrias nacionais tradicionais foram destruídas e continuam sendo destruídas diariamente.
 
-A necessidade de ampliar continuamente seus mercados empurra a burguesia por todo o planeta. Ela precisa se instalar em todos os lugares, estabelecer relações em todos os lugares e criar conexões em todos os lugares.
+Elas são substituídas por novas indústrias cuja introdução se torna uma questão vital para todas as nações industrializadas. Essas indústrias já não utilizam apenas matérias-primas locais, mas matérias-primas vindas das regiões mais distantes; e seus produtos são consumidos não apenas no país de origem, mas em todas as partes do mundo.
 
-Por meio do mercado mundial, a burguesia deu caráter internacional à produção e ao consumo. Para grande incômodo dos que defendem o isolamento nacional, as antigas bases nacionais de muitas indústrias foram destruídas ou transformadas.
+No lugar das antigas necessidades satisfeitas por produtos nacionais surgem novas necessidades, que exigem produtos de países e climas distantes. No lugar do antigo isolamento e da autossuficiência local e nacional surge uma circulação universal, uma interdependência universal entre as nações.
 
-Indústrias tradicionais são substituídas por novas indústrias cuja existência se torna importante para várias nações ao mesmo tempo. Elas deixam de utilizar apenas matérias-primas locais e passam a empregar matérias-primas vindas de regiões distantes. Seus produtos são consumidos não apenas onde foram fabricados, mas em diferentes partes do mundo.
+E isso vale tanto para a produção material quanto para a produção intelectual. As criações intelectuais de cada nação tornam-se patrimônio comum. A estreiteza e o exclusivismo nacionais tornam-se cada vez menos possíveis, e das muitas literaturas nacionais e locais surge uma literatura mundial.
 
-No lugar de antigas necessidades atendidas por produtos locais, surgem novas necessidades que dependem de mercadorias de países e regiões distantes.
+Com o rápido aperfeiçoamento dos instrumentos de produção e dos meios de comunicação, a burguesia arrasta todas as nações para o sistema da civilização burguesa. Os preços baixos de suas mercadorias são sua artilharia pesada: derrubam muralhas, vencem resistências e obrigam sociedades antes hostis ao comércio estrangeiro a abrir seus mercados.
 
-O antigo isolamento entre povos dá lugar a relações cada vez mais universais e a uma crescente interdependência.
+Sob risco de ficar economicamente para trás, todas as nações são pressionadas a adotar o modo burguês de produção e a introduzir aquilo que a burguesia chama de civilização — isto é, a tornarem-se burguesas. Em uma frase: a burguesia cria um mundo à sua própria imagem.
 
-Isso vale não apenas para a produção material. A produção intelectual de cada nação também passa a circular mais amplamente. As criações intelectuais dos diversos povos tornam-se patrimônio comum, e a estreiteza nacional fica cada vez menos sustentável.
+A burguesia submeteu o campo à cidade. Criou enormes cidades, aumentou muito a população urbana em comparação com a rural e retirou grande parte da população do isolamento da vida agrária.
 
-Com o aperfeiçoamento rápido dos instrumentos de produção e dos meios de comunicação, a burguesia incorpora regiões cada vez maiores ao sistema de relações criado pelo mercado.
+Da mesma forma que subordinou o campo à cidade, subordinou países predominantemente agrícolas aos países industriais, povos camponeses aos povos burgueses e, na formulação histórica do texto, o Oriente ao Ocidente.
 
-A concorrência força países e povos a adotar métodos de produção semelhantes aos da burguesia caso não queiram ficar economicamente isolados. Em outras palavras, a burguesia tende a criar um mundo à sua própria imagem.
+A burguesia elimina cada vez mais a dispersão da população, dos meios de produção e da propriedade. Concentrou populações, centralizou meios de produção e concentrou a propriedade em poucas mãos. A consequência necessária foi a centralização política.
 
-Ela submeteu o campo à cidade. Criou cidades enormes, aumentou a população urbana e afastou parcelas cada vez maiores da população das antigas formas de vida rural.
+Províncias antes independentes ou ligadas apenas por vínculos frágeis, com interesses, leis, governos e tarifas diferentes, foram agrupadas em nações com um governo, um sistema jurídico, um interesse nacional de classe e uma barreira alfandegária comum.
 
-Do mesmo modo que subordinou o campo à cidade, subordinou povos agrícolas a povos industrializados, o Oriente ao Ocidente e regiões menos desenvolvidas economicamente às regiões onde o capital já estava concentrado.
+Em um período de domínio historicamente curto, a burguesia criou forças produtivas mais numerosas e gigantescas do que todas as gerações anteriores juntas.
 
-A burguesia concentra cada vez mais os meios de produção, a propriedade e a população. A consequência desse processo é também uma tendência à centralização política.
+A submissão das forças da natureza, as máquinas, a aplicação da química à indústria e à agricultura, a navegação a vapor, as ferrovias, o telégrafo elétrico, a abertura de continentes à produção, a canalização de rios e o rápido surgimento de grandes populações: que século anterior poderia imaginar que forças produtivas desse tamanho estavam adormecidas dentro do trabalho social?
 
-Regiões antes separadas, com interesses, leis, governos e tarifas diferentes, tendem a ser reunidas em Estados com governos, leis e interesses nacionais mais unificados.
+Os meios de produção e de troca sobre os quais se formou a burguesia foram gerados dentro da sociedade feudal. Em determinado estágio de seu desenvolvimento, as condições em que a sociedade feudal produzia e trocava, a organização feudal da agricultura e da manufatura e as relações feudais de propriedade deixaram de corresponder às forças produtivas que já haviam se desenvolvido.
 
-Em um período historicamente curto, a burguesia desenvolveu forças produtivas em escala muito maior do que as sociedades anteriores haviam desenvolvido ao longo de séculos.
+Em vez de estimular a produção, essas relações passaram a bloqueá-la. Transformaram-se em correntes que precisavam ser quebradas — e foram quebradas.
 
-A utilização das forças da natureza, a mecanização, o emprego da química na indústria e na agricultura, a navegação a vapor, as ferrovias, o telégrafo, a transformação de enormes áreas para agricultura e o crescimento das cidades demonstram a capacidade produtiva liberada pela sociedade burguesa.
+Em seu lugar surgiu a livre concorrência, acompanhada de uma organização social e política correspondente e da supremacia econômica e política da classe burguesa.
 
-Mas essas forças produtivas não surgiram do nada. Elas foram preparadas dentro da sociedade feudal.
+Diante de nós ocorre, segundo Marx e Engels, um processo semelhante.
 
-Em determinado momento, as relações feudais de propriedade se tornaram obstáculos ao desenvolvimento da produção. Deixaram de impulsionar as forças produtivas e passaram a limitá-las. Precisaram ser rompidas.
+As relações burguesas de produção e de troca, o regime burguês de propriedade e a sociedade burguesa moderna produziram meios de produção e de troca tão poderosos que se parecem com um feiticeiro que já não consegue controlar as forças que convocou.
 
-Em seu lugar surgiu a livre concorrência, acompanhada de uma organização social e política adequada a ela e da dominação econômica e política da burguesia.
+Há décadas, a história da indústria e do comércio é também a história da revolta das forças produtivas modernas contra as relações modernas de produção e de propriedade que sustentam a existência e o domínio da burguesia.
 
-Segundo Marx e Engels, um processo semelhante começa a acontecer dentro da própria sociedade burguesa.
+Basta lembrar as crises comerciais. Elas retornam periodicamente e ameaçam, cada vez mais, a existência de toda a sociedade burguesa.
 
-As modernas relações burguesas de produção e de propriedade, que desenvolveram enormes meios de produção e de troca, passam a se parecer com alguém que colocou em movimento forças que já não consegue controlar completamente.
+Durante essas crises, destrói-se regularmente não apenas uma grande quantidade de produtos já fabricados, mas também uma parte das próprias forças produtivas já criadas.
 
-As crises comerciais periódicas mostram essa contradição.
+Surge uma epidemia que teria parecido absurda em qualquer época anterior: a epidemia da **superprodução**.
 
-Nessas crises, uma parte dos produtos e até das forças produtivas é destruída. Surge uma situação que, nas sociedades anteriores, pareceria absurda: uma crise de superprodução.
+A sociedade parece ser lançada de volta, por algum tempo, a uma situação de barbárie. É como se uma fome ou uma guerra devastadora tivesse cortado todas as fontes de subsistência. Indústria e comércio parecem destruídos.
 
-A sociedade possui produtos demais, indústria demais e comércio demais para as relações existentes de propriedade e de mercado conseguirem absorver de maneira estável.
+Por quê? Porque há civilização demais, meios de subsistência demais, indústria demais, comércio demais — demais para caber dentro das relações de propriedade existentes.
 
-As forças produtivas passam a entrar em conflito com as relações burguesas de propriedade. Quando isso acontece, essas relações deixam de servir apenas ao desenvolvimento das forças produtivas e passam também a limitá-las.
+As forças produtivas de que a sociedade dispõe já não impulsionam as relações burguesas de propriedade. Tornaram-se poderosas demais para elas e passam a ser contidas por essas relações. Quando rompem esses limites, lançam toda a sociedade burguesa na desordem e ameaçam a própria existência da propriedade burguesa.
 
-Como a burguesia enfrenta as crises?
+As relações burguesas tornaram-se estreitas demais para conter a riqueza que elas próprias criaram.
 
-De um lado, pela destruição de parte das forças produtivas. De outro, pela conquista de novos mercados e pela exploração mais intensa dos mercados antigos.
+Como a burguesia supera essas crises? De um lado, destruindo à força uma massa de forças produtivas. De outro, conquistando novos mercados e explorando mais intensamente os antigos.
 
-Isso significa, para os autores, preparar crises ainda maiores e reduzir os meios capazes de evitá-las.
+Ou seja: supera as crises preparando crises ainda maiores e mais destrutivas e diminuindo os meios de evitá-las.
 
-As mesmas armas que a burguesia utilizou para derrubar o feudalismo começam a se voltar contra ela.
+As armas com que a burguesia derrubou o feudalismo agora se voltam contra a própria burguesia.
 
-Mas a burguesia não criou apenas as armas que poderão destruí-la. Criou também a classe que poderá manejá-las: o proletariado.
+Mas a burguesia não produziu apenas as armas que podem destruí-la. Produziu também as pessoas que poderão usar essas armas: os trabalhadores modernos, os **proletários**.
 
-Na mesma proporção em que se desenvolve a burguesia, isto é, o capital, desenvolve-se também o proletariado: a classe dos trabalhadores modernos que só conseguem viver enquanto encontram trabalho e que só encontram trabalho enquanto seu trabalho aumenta o capital.
+Na mesma proporção em que a burguesia — isto é, o capital — se desenvolve, desenvolve-se também o proletariado, a classe dos trabalhadores modernos. Eles só vivem enquanto encontram trabalho e só encontram trabalho enquanto seu trabalho aumenta o capital.
 
-Esses trabalhadores precisam vender sua força de trabalho para viver.
+Esses trabalhadores precisam vender sua força de trabalho em parcelas. Por isso, dentro das relações analisadas pelo Manifesto, tornam-se uma mercadoria como qualquer outro artigo de comércio, sujeitos às oscilações da concorrência e do mercado.
 
-Por isso, tornam-se uma mercadoria em um sentido econômico específico: estão sujeitos à concorrência e às oscilações do mercado de trabalho.
+Com o uso crescente de máquinas e a divisão do trabalho, o trabalho do proletário perde seu caráter individual e, para o trabalhador, grande parte de seu conteúdo próprio. Ele se torna um apêndice da máquina e dele se exige principalmente uma operação simples, repetitiva e fácil de aprender.
 
-Com a expansão das máquinas e da divisão do trabalho, o trabalho proletário perde parte de sua autonomia e de seu conteúdo individual. O trabalhador se torna cada vez mais um operador dentro de um processo produtivo organizado pelo capital.
+Por isso, o custo do trabalhador tende a ser reduzido, na análise dos autores, aos meios de subsistência necessários para mantê-lo e reproduzir sua existência como trabalhador.
 
-Quanto mais simples e repetitiva se torna uma tarefa, menor tende a ser o custo necessário para preparar o trabalhador para executá-la.
+Como o preço das mercadorias é relacionado ao seu custo de produção, Marx e Engels concluem que, quanto mais desagradável e simplificado se torna o trabalho, maior é a pressão para baixo sobre os salários.
 
-Na análise do manifesto, o salário tende a se aproximar dos meios necessários à manutenção e reprodução da força de trabalho.
+E não apenas isso. À medida que aumenta o uso de máquinas e a divisão do trabalho, aumenta também a quantidade de trabalho exigida: pelo prolongamento da jornada, pela intensificação do trabalho realizado em determinado tempo ou pela aceleração das máquinas.
 
-Ao mesmo tempo, quanto mais se desenvolvem as máquinas e a divisão do trabalho, maior pode ser a intensidade ou a quantidade de trabalho exigida.
+A indústria moderna transformou a pequena oficina do antigo mestre numa grande fábrica do capitalista industrial. Massas de trabalhadores são concentradas nessas fábricas e organizadas quase militarmente.
 
-A indústria moderna transformou a pequena oficina em grande fábrica. Massas de trabalhadores são concentradas e organizadas segundo as necessidades do processo produtivo.
+Como soldados de um exército industrial, ficam submetidos a uma hierarquia de supervisores e chefes. Na linguagem dura do Manifesto, são escravos não apenas da classe burguesa e do Estado burguês, mas também, diariamente, da máquina, do supervisor e, acima de tudo, do proprietário individual da fábrica.
 
-A subordinação do trabalhador não ocorre apenas em relação à classe burguesa em geral e ao Estado burguês, mas também, diretamente, em relação ao proprietário da fábrica e aos responsáveis pela organização do trabalho.
+Esse despotismo se torna, para os autores, ainda mais mesquinho e odioso quanto mais abertamente declara que seu único objetivo é o lucro.
 
-Quanto mais o trabalho exige menos força física ou formação específica, mais diferentes grupos podem ser incorporados ao trabalho assalariado. Diferenças de idade e sexo, do ponto de vista do capital, tornam-se diferenças de custo da força de trabalho.
+Quanto menos habilidade específica e força física o trabalho exige, mais a indústria moderna pode substituir o trabalho masculino pelo trabalho de mulheres e crianças. Para o capital, diferenças de idade e sexo passam a significar sobretudo diferenças no custo dos instrumentos humanos de trabalho.
 
-Depois de receber o salário, o trabalhador continua cercado por outras relações econômicas: aluguel, crédito, comércio e diferentes formas de cobrança sobre seu consumo.
+Depois de receber seu salário do fabricante, o trabalhador ainda é pressionado por outras parcelas da burguesia: proprietário de imóvel, comerciante, credor e outros.
 
-As antigas camadas médias — pequenos industriais, comerciantes, artesãos e camponeses — tendem, em parte, a cair no proletariado.
+As camadas inferiores da antiga classe média — pequenos comerciantes, lojistas, artesãos, pequenos proprietários e camponeses — caem gradualmente no proletariado.
 
-Isso ocorre porque seu pequeno capital não consegue competir com os grandes capitais e porque certas habilidades profissionais perdem valor diante de novos métodos de produção.
+Isso ocorre, em parte, porque seu pequeno capital não é suficiente para competir na escala da grande indústria e é esmagado pela concorrência dos grandes capitalistas; em parte, porque suas habilidades especializadas perdem valor diante dos novos métodos de produção.
 
-Assim, o proletariado é recrutado em diferentes setores da população.
+Assim, o proletariado é recrutado em todas as classes da população.
 
-O proletariado passa por várias etapas de desenvolvimento.
+O proletariado passa por diferentes etapas de desenvolvimento. Com seu nascimento começa sua luta contra a burguesia.
 
-No início, a luta é travada por trabalhadores isolados. Depois, por trabalhadores de uma fábrica. Mais tarde, pelos trabalhadores de um ramo inteiro de produção em uma região.
+No início, lutam trabalhadores isolados; depois, os trabalhadores de uma fábrica; em seguida, os trabalhadores de um mesmo ramo numa localidade, contra o burguês que os explora diretamente.
 
-Nessa fase, muitas vezes os trabalhadores atacam diretamente os instrumentos de produção ou as mercadorias, porque percebem neles a forma imediata de sua exploração.
+Nessa fase, eles não atacam apenas as relações burguesas de produção. Atacam também os próprios instrumentos de produção: destroem mercadorias estrangeiras concorrentes, quebram máquinas, queimam fábricas e tentam recuperar a posição perdida do artesão medieval.
 
-Mas, nesse estágio, os trabalhadores ainda constituem uma massa dispersa e dividida pela concorrência entre si.
+Nesse estágio, os trabalhadores ainda formam uma massa espalhada pelo país e dividida pela concorrência entre si.
 
-Quando agem de forma unificada, muitas vezes isso acontece porque a própria burguesia, em seus conflitos políticos, precisa mobilizá-los contra inimigos da ordem anterior.
+Quando conseguem agir juntos, isso muitas vezes ainda não é resultado de sua própria união, mas da união da burguesia, que para alcançar seus objetivos políticos precisa mobilizar o proletariado e, naquele momento, ainda consegue fazê-lo.
 
-Nesses momentos, o proletariado ainda não combate necessariamente seu inimigo histórico de maneira consciente e independente. Pode combater adversários da burguesia, como restos da monarquia absoluta, proprietários fundiários ou setores burgueses concorrentes.
+Nessa etapa, portanto, os proletários não lutam contra seus próprios inimigos de classe, mas contra os inimigos de seus inimigos: restos da monarquia absoluta, grandes proprietários feudais, burgueses não industriais e pequenos burgueses.
 
-Cada vitória obtida nesse estágio acaba fortalecendo a burguesia.
+O movimento histórico fica, assim, concentrado nas mãos da burguesia, e cada vitória alcançada nessas condições é uma vitória burguesa.
 
-Mas, com o desenvolvimento da indústria, o proletariado aumenta em número, concentra-se em grandes massas e percebe cada vez mais sua força coletiva.
+Mas, com o desenvolvimento da indústria, o proletariado não apenas aumenta em número. Ele se concentra em massas maiores, sua força cresce e ele passa a reconhecê-la.
 
-As condições de vida e os interesses dos trabalhadores tornam-se mais semelhantes à medida que as máquinas reduzem diferenças entre tipos de trabalho e pressionam os salários.
+Os interesses e as condições de vida dos proletários tornam-se mais semelhantes à medida que as máquinas reduzem diferenças entre tipos de trabalho e pressionam salários para níveis próximos.
 
-A concorrência entre os próprios burgueses e as crises comerciais também tornam os salários instáveis.
+A concorrência crescente entre os burgueses e as crises comerciais tornam os salários cada vez mais instáveis. O aperfeiçoamento das máquinas torna a condição dos trabalhadores mais insegura. Os conflitos entre trabalhador e burguês individuais passam, cada vez mais, a assumir o caráter de conflitos entre duas classes.
 
-O rápido aperfeiçoamento das máquinas torna a situação dos trabalhadores ainda mais insegura.
+Os trabalhadores começam então a formar associações contra os burgueses e a agir em conjunto pela defesa de seus salários. Criam organizações permanentes para se preparar para novos confrontos. Aqui e ali, a luta explode em revoltas.
 
-Os conflitos entre trabalhadores individuais e burgueses individuais passam a assumir, cada vez mais, o caráter de conflitos entre duas classes.
+Às vezes os trabalhadores vencem, mas essas vitórias são temporárias.
 
-Os trabalhadores começam então a formar associações contra os burgueses e a agir em conjunto para defender salários e condições de trabalho.
+O resultado mais importante dessas lutas não é a conquista imediata, mas a união cada vez maior dos trabalhadores.
 
-Também criam organizações permanentes para se preparar para novos conflitos.
+Essa união é favorecida pelos meios de comunicação criados pela grande indústria, que colocam trabalhadores de diferentes regiões em contato.
 
-Às vezes, a luta chega a levantes.
+Basta esse contato para reunir inúmeras lutas locais, semelhantes em seu conteúdo, numa luta nacional entre classes.
 
-Os trabalhadores podem conquistar vitórias, mas muitas delas são temporárias.
+E toda luta de classes é uma luta política.
 
-O principal resultado dessas lutas não é apenas uma conquista imediata; é a ampliação da união entre os trabalhadores.
+A união que os habitantes das cidades medievais levaram séculos para construir com estradas precárias, os proletários modernos podem construir em poucos anos com as ferrovias.
 
-Essa união é favorecida pelo desenvolvimento dos meios de comunicação produzidos pela grande indústria, que colocam trabalhadores de diferentes regiões em contato.
+A organização do proletariado como classe e, portanto, como partido político é continuamente abalada pela concorrência entre os próprios trabalhadores. Mas volta a surgir, repetidamente, mais forte, mais sólida e mais poderosa.
 
-O que antes eram inúmeras lutas locais pode se transformar numa luta nacional entre classes.
+Ela aproveita as divisões internas da burguesia para conquistar o reconhecimento legal de certos interesses dos trabalhadores. O Manifesto cita como exemplo a lei inglesa da jornada de dez horas.
 
-Toda luta de classes é também uma luta política.
+De modo geral, os conflitos existentes na velha sociedade favorecem de várias formas o desenvolvimento do proletariado.
 
-A organização do proletariado como classe é repetidamente enfraquecida pela concorrência entre os próprios trabalhadores, mas volta a surgir de formas mais amplas e mais fortes.
+A burguesia está permanentemente em conflito: primeiro contra a aristocracia; depois contra parcelas da própria burguesia cujos interesses entram em choque com o desenvolvimento industrial; e continuamente contra as burguesias de outros países.
 
-As divisões internas da burguesia também podem beneficiar politicamente os trabalhadores. Em certos conflitos, setores burgueses são obrigados a recorrer ao proletariado, levando-o para a arena política e fornecendo-lhe instrumentos que depois podem ser usados contra a própria burguesia.
+Em todas essas lutas, ela é obrigada a recorrer ao proletariado, pedir sua ajuda e arrastá-lo para a arena política.
 
-Além disso, à medida que a velha sociedade se transforma, partes das antigas classes dominantes podem ser lançadas para dentro do proletariado ou ter sua posição ameaçada.
+Assim, a própria burguesia fornece ao proletariado elementos de educação política — ou, nas palavras do argumento, armas que depois poderão ser usadas contra ela.
 
-Em períodos de crise profunda da luta de classes, alguns indivíduos da classe dominante rompem com sua classe de origem e se aproximam da classe revolucionária.
+Além disso, com o avanço da indústria, parcelas inteiras da classe dominante são lançadas no proletariado ou passam a ter suas condições de existência ameaçadas. Também elas levam ao proletariado novos conhecimentos e capacidades.
 
-Assim como, em outra época, uma parte da nobreza passou para o lado da burguesia, uma parte da burguesia pode passar para o lado do proletariado, especialmente entre aqueles que chegam a compreender teoricamente o movimento histórico.
+Por fim, nos períodos em que a luta de classes se aproxima de uma decisão, o processo de decomposição dentro da classe dominante e da velha sociedade torna-se tão intenso que uma pequena parte da classe dominante rompe com sua própria classe e se junta à classe revolucionária, à classe que, segundo os autores, carrega o futuro.
 
-Entre todas as classes que se colocam hoje diante da burguesia, o proletariado é, para Marx e Engels, a classe verdadeiramente revolucionária.
+Assim como anteriormente uma parte da nobreza passou para o lado da burguesia, uma parte da burguesia passa para o lado do proletariado, especialmente entre os ideólogos burgueses que conseguiram compreender teoricamente o movimento histórico em seu conjunto.
 
-Outras classes entram em decadência e tendem a desaparecer com o desenvolvimento da grande indústria. O proletariado, ao contrário, é produto direto dessa indústria.
+De todas as classes que enfrentam a burguesia, o proletariado é, para Marx e Engels, a única classe verdadeiramente revolucionária.
 
-As camadas médias — pequeno industrial, pequeno comerciante, artesão e camponês — podem lutar contra a burguesia para impedir sua própria queda social. Nesse sentido, sua luta tende a ser conservadora.
+As outras classes entram em decadência e desaparecem com o desenvolvimento da grande indústria; o proletariado é seu produto característico.
 
-Quando se tornam revolucionárias, isso ocorre na medida em que percebem a possibilidade de sua passagem para o proletariado e defendem não sua situação passada, mas seus interesses futuros.
+As classes médias — pequeno comerciante, pequeno fabricante, artesão, camponês — lutam contra a burguesia para preservar sua existência como classes médias. Nesse sentido, não são revolucionárias, mas conservadoras; mais ainda, podem ser reacionárias quando procuram fazer a história voltar para trás.
 
-O proletariado não pode conquistar as forças produtivas da sociedade simplesmente tornando-se proprietário individual segundo o modelo anterior. Para os autores, sua emancipação exige transformar as relações de apropriação ligadas ao capital.
+Quando se tornam revolucionárias, é porque se aproximam de sua passagem para o proletariado. Nesse caso, deixam de defender seus interesses presentes e passam a defender aquilo que entendem como seus interesses futuros, abandonando seu próprio ponto de vista para assumir o do proletariado.
 
-Os proletários não têm, nos termos da obra, uma propriedade fundada sobre o trabalho de outros que precisem preservar como classe.
+O **lumpemproletariado**, produto passivo da decomposição das camadas mais baixas da velha sociedade, pode às vezes ser arrastado por uma revolução proletária. Mas, segundo o Manifesto, suas condições de vida o tornam especialmente vulnerável a ser comprado pela reação.
 
-As formas anteriores de movimento político foram, em grande parte, movimentos de minorias ou realizados em benefício de minorias. O movimento proletário é apresentado como movimento independente da enorme maioria em benefício da enorme maioria.
+Nas condições de vida do proletariado, dizem os autores, já estão destruídas muitas das condições da velha sociedade.
 
-O proletariado, camada inferior da sociedade existente, não poderia se elevar sem abalar profundamente toda a estrutura social organizada acima dele.
+O proletário não possui propriedade no sentido burguês. Suas relações familiares foram transformadas pelas condições do trabalho industrial. O trabalho moderno e a sujeição ao capital, na Inglaterra, França, América ou Alemanha, retiram de sua posição de classe um caráter nacional específico.
 
-Embora a luta do proletariado contra a burguesia seja internacional em seu conteúdo, ela começa dentro das fronteiras de cada país. O proletariado de cada país precisa primeiro enfrentar sua própria burguesia.
+As leis, a moral e a religião aparecem ao proletário, no argumento do Manifesto, como formas de consciência burguesa atrás das quais se escondem interesses burgueses.
 
-Ao descrever as fases gerais do desenvolvimento proletário, o manifesto acompanha uma guerra civil mais ou menos oculta dentro da sociedade até o momento em que o conflito se torna aberto e o proletariado busca conquistar o poder político.
+Todas as classes que conquistaram o poder no passado procuraram consolidar sua posição submetendo toda a sociedade às suas próprias condições de apropriação.
 
-Todas as sociedades anteriores, segundo os autores, basearam-se no antagonismo entre classes opressoras e oprimidas.
+Os proletários, ao contrário, não podem se apoderar das forças produtivas sociais sem abolir o modo de apropriação ligado a essas forças e, com ele, os modos anteriores de apropriação que sustentam a propriedade de classe.
 
-Mas, para que uma classe possa ser oprimida de forma estável, é necessário que existam condições que ao menos permitam sua sobrevivência.
+Na formulação do Manifesto, os proletários não têm uma propriedade de classe própria a preservar; sua missão histórica é destruir as garantias que sustentam as formas anteriores de propriedade privada.
 
-O servo, apesar de sua condição, podia em certas circunstâncias tornar-se membro de uma comunidade urbana. O pequeno burguês pôde, em certas épocas, ascender socialmente.
+Todos os movimentos históricos anteriores foram, segundo os autores, movimentos de minorias ou realizados em benefício de minorias.
 
-Já o trabalhador moderno, segundo o argumento do manifesto, tende a se tornar mais inseguro à medida que a indústria avança.
+O movimento proletário é apresentado como o movimento independente da imensa maioria em benefício da imensa maioria.
 
-Quando o trabalhador não consegue sequer reproduzir as condições mínimas de sua existência e a sociedade precisa sustentá-lo, a dominação burguesa revela uma contradição: a classe dominante mostra-se incapaz de garantir de maneira estável a existência da classe cujo trabalho sustenta o sistema.
+O proletariado, camada mais baixa da sociedade existente, não pode se levantar sem fazer saltar toda a estrutura de camadas sociais colocada acima dele.
 
-A existência e o domínio da burguesia têm como condição essencial a formação e o crescimento do capital.
+Embora a luta do proletariado contra a burguesia seja, em seu conteúdo, internacional, ela assume inicialmente uma forma nacional.
+
+O proletariado de cada país precisa, antes de tudo, enfrentar sua própria burguesia.
+
+Ao descrever em linhas gerais as etapas do desenvolvimento proletário, Marx e Engels dizem estar descrevendo a história de uma guerra civil mais ou menos oculta dentro da sociedade existente, até o momento em que essa guerra explode em revolução aberta e o proletariado estabelece sua dominação pela derrubada violenta da burguesia.
+
+Todas as sociedades anteriores, afirmam os autores, foram baseadas no antagonismo entre classes opressoras e oprimidas.
+
+Mas, para que uma classe seja oprimida de modo estável, é preciso garantir condições que ao menos permitam sua existência dentro da servidão.
+
+O servo medieval pôde, mesmo sob servidão, tornar-se membro de uma comuna. O pequeno burguês pôde, sob o absolutismo feudal, elevar-se à condição de burguês.
+
+O trabalhador moderno, ao contrário, segundo o Manifesto, não sobe com o progresso da indústria: cai cada vez mais abaixo das condições de sua própria classe.
+
+O trabalhador cai no pauperismo, que cresceria ainda mais rapidamente que a população e a riqueza.
+
+Para Marx e Engels, isso demonstraria que a burguesia se torna incapaz de continuar governando, porque já não consegue impor à sociedade as condições de existência de sua classe como regra geral.
+
+Ela seria incapaz de dominar porque não conseguiria assegurar nem mesmo a existência de seu trabalhador dentro da própria exploração: em determinadas situações, a sociedade teria de sustentá-lo em vez de ser sustentada por seu trabalho.
+
+Assim, concluem os autores, a existência da burguesia tornar-se-ia incompatível com o desenvolvimento da sociedade.
+
+A condição essencial para a existência e a supremacia da burguesia é a formação e o crescimento do capital.
 
 A condição do capital é o trabalho assalariado.
 
-O trabalho assalariado se apoia na concorrência entre os trabalhadores.
+O trabalho assalariado se apoia, segundo o argumento, na concorrência dos trabalhadores entre si.
 
-Mas o desenvolvimento da grande indústria, impulsionado pela burguesia, cria também as condições para que os trabalhadores superem seu isolamento e construam formas de associação.
+Mas o progresso da indústria, do qual a burguesia é apresentada como agente involuntário, substitui gradualmente o isolamento dos trabalhadores causado pela concorrência por sua união através da associação.
 
-Assim, o próprio desenvolvimento da burguesia produz, segundo Marx e Engels, as condições de sua superação.
+Desse modo, o desenvolvimento da grande indústria retira da burguesia o próprio terreno sobre o qual ela produz e se apropria dos produtos.
+
+Acima de tudo, diz o Manifesto, a burguesia produz seus próprios coveiros.
+
+Sua queda e a vitória do proletariado são apresentadas pelos autores como igualmente inevitáveis.
+
+### Notas de Engels à Parte I
+
+1. **Burguesia e proletariado.** Na edição inglesa de 1888, Engels define a burguesia como a classe dos capitalistas modernos, proprietários dos meios de produção social e empregadores de trabalho assalariado; e o proletariado como a classe dos trabalhadores assalariados modernos que, por não possuírem meios de produção próprios, precisam vender sua força de trabalho para viver.
+
+2. **“Toda a história”.** Engels esclarece que a frase se refere à história registrada. Ele observa que pesquisas posteriores a 1847 ampliaram o conhecimento sobre formas comunitárias de propriedade anteriores às sociedades divididas em classes.
+
+3. **Mestre de corporação.** Engels explica que o termo se refere ao membro pleno de uma corporação de ofício, mestre dentro dela, e não necessariamente ao dirigente da corporação.
 
 # II. PROLETÁRIOS E COMUNISTAS
 
 Qual é a relação dos comunistas com os proletários em geral?
 
-Os comunistas não formam um partido separado, com interesses diferentes dos interesses do proletariado como um todo.
+Os comunistas não formam um partido separado, oposto aos outros partidos da classe trabalhadora.
 
-Eles não estabelecem princípios particulares para moldar o movimento proletário de acordo com uma doutrina externa.
+Eles não possuem interesses separados dos interesses do proletariado como um todo.
 
-Distinguem-se dos demais setores do movimento operário principalmente por duas características.
+Também não estabelecem princípios sectários próprios para moldar o movimento proletário segundo uma doutrina particular.
 
-Primeiro: nas lutas nacionais dos proletários de diferentes países, destacam e defendem os interesses comuns do proletariado, independentemente da nacionalidade.
+Os comunistas se distinguem dos demais partidos operários, segundo o Manifesto, principalmente por dois aspectos.
 
-Segundo: nas diferentes etapas da luta entre proletariado e burguesia, procuram representar os interesses gerais do movimento.
+Primeiro: nas lutas nacionais dos proletários de diferentes países, destacam e colocam em primeiro plano os interesses comuns de todo o proletariado, independentemente da nacionalidade.
 
-Na prática, portanto, os comunistas são apresentados como a parte mais decidida do movimento proletário, aquela que procura impulsionar o conjunto.
+Segundo: nas diferentes etapas pelas quais passa a luta da classe trabalhadora contra a burguesia, representam sempre os interesses do movimento em seu conjunto.
 
-Do ponto de vista teórico, sua vantagem estaria em compreender com maior clareza as condições, o desenvolvimento e os resultados gerais da luta proletária.
+Na prática, portanto, os comunistas são apresentados como a parcela mais avançada e decidida dos partidos operários de cada país, a parcela que procura impulsionar as demais.
 
-O objetivo imediato dos comunistas é o mesmo objetivo dos demais proletários organizados: constituir o proletariado como classe, derrubar a dominação burguesa e conquistar o poder político.
+No plano teórico, teriam sobre a grande massa do proletariado a vantagem de compreender com maior clareza o caminho do movimento, suas condições e seus resultados gerais.
 
-As posições teóricas dos comunistas não são apresentadas como ideias inventadas por um reformador ou pensador isolado.
+O objetivo imediato dos comunistas é o mesmo dos demais partidos proletários: organizar o proletariado como classe, derrubar a supremacia burguesa e conquistar o poder político para o proletariado.
 
-São entendidas como expressão geral de relações reais existentes numa luta de classes concreta.
+As conclusões teóricas dos comunistas, dizem Marx e Engels, não se baseiam em ideias ou princípios inventados por este ou aquele reformador que se apresenta como salvador universal.
 
-A abolição das relações de propriedade que existiram até agora não é algo exclusivamente comunista.
+Elas pretendem expressar, em termos gerais, relações reais que surgem de uma luta de classes já existente e de um movimento histórico que se desenvolve diante dos próprios olhos da sociedade.
 
-As formas de propriedade mudaram repetidamente ao longo da história.
+A abolição das relações de propriedade existentes não é, por si só, uma característica exclusiva do comunismo.
 
-A Revolução Francesa, por exemplo, aboliu formas de propriedade feudal em favor da propriedade burguesa.
+As relações de propriedade mudaram repetidamente ao longo da história, acompanhando mudanças nas condições históricas.
 
-O que distingue o comunismo, segundo o manifesto, não é a intenção de abolir qualquer forma de apropriação pessoal, mas abolir a forma burguesa de propriedade privada.
+A Revolução Francesa, por exemplo, aboliu a propriedade feudal em favor da propriedade burguesa.
 
-A propriedade privada burguesa moderna é apresentada como a expressão final de um sistema de produção e apropriação baseado em antagonismos de classe e na exploração de uns por outros.
+O que distingue o comunismo, portanto, não é a abolição de toda e qualquer propriedade, mas a abolição da **propriedade burguesa**.
 
-Nesse sentido, os comunistas resumem sua teoria na fórmula: abolição da propriedade privada burguesa.
+A propriedade privada burguesa moderna é apresentada no Manifesto como a expressão mais desenvolvida de um sistema de produção e apropriação baseado em antagonismos de classe e na exploração de muitos por poucos.
 
-Mas surge imediatamente uma objeção: querem abolir a propriedade adquirida pelo trabalho pessoal?
+Nesse sentido, Marx e Engels dizem que a teoria dos comunistas pode ser resumida em uma única fórmula: **abolição da propriedade privada burguesa**.
 
-Marx e Engels respondem distinguindo propriedade pessoal e propriedade burguesa.
+Os comunistas são acusados de querer abolir o direito de uma pessoa possuir aquilo que conquistou por seu próprio trabalho, propriedade que seria a base de toda liberdade, atividade e independência pessoal.
 
-Perguntam se o trabalho assalariado cria propriedade para o trabalhador.
+Os autores respondem perguntando de que propriedade se está falando.
 
-Sua resposta é negativa.
+Se se fala da propriedade do pequeno artesão ou do pequeno camponês, formas de propriedade anteriores à propriedade burguesa moderna, o próprio desenvolvimento da indústria já estaria destruindo essas formas diariamente.
 
-O trabalho assalariado cria capital.
+Se se fala da propriedade privada burguesa moderna, a questão é diferente.
 
-E capital, no argumento do manifesto, não é apenas uma coisa acumulada. É uma relação social.
+O trabalho assalariado cria propriedade para o trabalhador?
 
-O capital só pode existir porque uma parte da sociedade possui os meios de produção e outra parte precisa vender sua força de trabalho.
+Marx e Engels respondem que não.
 
-Quando o capital é transformado em propriedade coletiva, ele não se torna simplesmente propriedade privada de cada indivíduo. O que muda é seu caráter social.
+Segundo eles, o trabalho assalariado cria **capital**: uma forma de propriedade que explora trabalho assalariado e só cresce na medida em que produz uma nova oferta de trabalho assalariado para ser novamente explorada.
 
-O manifesto também diferencia a apropriação necessária à vida da apropriação que permite dominar o trabalho de outros.
+A propriedade, em sua forma burguesa moderna, se move portanto dentro do antagonismo entre **capital e trabalho assalariado**.
 
-O comunismo, portanto, não pretende impedir que as pessoas utilizem produtos sociais para viver. Pretende impedir que essa apropriação se transforme em poder de subordinar o trabalho de outras pessoas.
+É preciso, dizem os autores, examinar os dois lados desse antagonismo.
 
-Outra objeção afirma que, se a propriedade privada burguesa desaparecer, toda atividade econômica desaparecerá porque ninguém terá incentivo para trabalhar.
+Ser capitalista significa ocupar não apenas uma posição pessoal, mas uma posição social dentro da produção.
 
-Os autores respondem que, se isso fosse verdade, a sociedade burguesa já teria deixado de existir, pois nela quem trabalha frequentemente não acumula propriedade, enquanto quem acumula grandes propriedades nem sempre trabalha diretamente na produção.
+O capital é um produto coletivo. Só pode ser colocado em movimento pela atividade combinada de muitos membros da sociedade e, no limite, pela atividade combinada do conjunto da sociedade.
 
-A discussão sobre propriedade, portanto, não é uma discussão abstrata sobre objetos pessoais. É uma discussão sobre as relações sociais que permitem a existência do capital.
+Por isso, o capital não é apenas um poder pessoal; é um **poder social**.
 
-Da mesma forma, quando os comunistas falam em liberdade, não rejeitam toda liberdade.
+Quando o capital é transformado em propriedade comum de todos os membros da sociedade, argumentam Marx e Engels, não é uma propriedade pessoal que se transforma em propriedade social.
 
-Questionam uma forma específica de liberdade: a liberdade de comércio, de compra e venda e de utilização privada do capital como poder econômico.
+O capital já possui caráter social.
 
-A burguesia considera a abolição dessas relações como abolição da personalidade e da liberdade porque entende sua própria forma histórica de propriedade como se fosse a forma natural e definitiva de toda propriedade.
+O que muda é o caráter de classe dessa propriedade.
 
-Mas, argumentam Marx e Engels, as classes dominantes de épocas anteriores também tratavam suas instituições como naturais e eternas.
+Passemos ao trabalho assalariado.
 
-Assim como a sociedade burguesa considera absurdas certas formas feudais de propriedade, sociedades futuras poderão considerar históricas, e não eternas, as formas burguesas.
+O preço médio do trabalho assalariado é apresentado no Manifesto como o salário mínimo necessário para assegurar os meios de subsistência indispensáveis à existência do trabalhador enquanto trabalhador.
 
-O comunismo também é acusado de pretender abolir a família.
+Assim, aquilo que o trabalhador consegue apropriar através de seu trabalho seria suficiente principalmente para manter e reproduzir sua existência.
 
-Os autores respondem que a família burguesa moderna se baseia, em grande medida, no capital e na propriedade privada.
+Os comunistas, afirmam os autores, não pretendem abolir essa apropriação pessoal dos produtos do trabalho necessária para a manutenção e reprodução da vida humana.
 
-Ela existe plenamente sobretudo para a burguesia, enquanto entre os proletários as condições econômicas frequentemente destroem ou fragilizam esse modelo familiar.
+Essa apropriação não produziria um excedente que permitisse ao indivíduo comandar o trabalho de outras pessoas.
 
-A crítica comunista, então, não se dirige ao afeto, à convivência ou aos vínculos pessoais, mas às bases econômicas específicas da família burguesa.
+O que pretendem eliminar é a condição na qual o trabalhador vive apenas para aumentar o capital e só pode viver na medida em que isso atende aos interesses da classe dominante.
 
-Os comunistas também são acusados de querer estabelecer uma comunidade de mulheres.
+Na sociedade burguesa, dizem Marx e Engels, o **trabalho vivo** é um meio para aumentar o **trabalho acumulado**.
 
-Marx e Engels rejeitam essa acusação como uma distorção.
+Na sociedade comunista, o trabalho acumulado deveria funcionar como meio de ampliar, enriquecer e melhorar a existência dos trabalhadores.
 
-Segundo eles, a burguesia já trata muitas relações humanas segundo a lógica da propriedade e frequentemente considera a mulher dentro dessa lógica.
+Na sociedade burguesa, portanto, o passado domina o presente.
 
-O objetivo comunista seria eliminar as condições sociais que transformam pessoas em objetos de apropriação.
+Na sociedade comunista, o presente dominaria o passado.
 
-Outra acusação é a de que os comunistas querem abolir a pátria e a nacionalidade.
+Na sociedade burguesa, o capital possui independência e individualidade, enquanto a pessoa que trabalha aparece como dependente e sem independência própria dentro da relação econômica.
 
-A resposta do manifesto é que os trabalhadores, enquanto classe dominada, não possuem a pátria no mesmo sentido da classe que controla o Estado nacional.
+A abolição dessa situação é denunciada pela burguesia, dizem os autores, como abolição da individualidade e da liberdade.
 
-O proletariado precisa conquistar o poder político e se organizar inicialmente como classe nacional, embora sua luta tenha caráter internacional.
+E, segundo eles, isso é correto em um sentido específico: o comunismo pretende abolir a **individualidade burguesa**, a **independência burguesa** e a **liberdade burguesa**.
 
-Com o desenvolvimento das relações econômicas mundiais, as diferenças e antagonismos entre povos tenderiam a diminuir.
+Por liberdade, dentro das condições burguesas de produção, entende-se principalmente a liberdade de comércio, de comprar e de vender.
 
-A dominação do proletariado aceleraria, segundo os autores, essa tendência.
+Se desaparecem determinadas relações de compra e venda, desaparece também a liberdade correspondente a essas relações.
 
-Marx e Engels afirmam ainda que as acusações feitas ao comunismo em nome da religião, da filosofia e da moral precisam ser compreendidas historicamente.
+Os discursos burgueses sobre liberdade, argumentam Marx e Engels, tinham sentido histórico quando eram dirigidos contra as restrições feudais ao comércio e contra os comerciantes presos às regras da Idade Média.
 
-As ideias dominantes de cada época estão profundamente relacionadas às condições materiais dessa época.
+Mas, para os autores, não servem como argumento contra a abolição comunista das relações burguesas de compra e venda e das próprias condições burguesas de produção.
 
-Quando as condições de vida mudam, também mudam as formas de consciência, as instituições e as ideias.
+“Vocês se horrorizam porque queremos abolir a propriedade privada”, dizem, em essência.
 
-Isso não significa que as ideias sejam simplesmente irrelevantes, mas que não podem ser compreendidas como se existissem fora da história.
+Mas, segundo o Manifesto, na sociedade burguesa a propriedade privada já estaria ausente para nove décimos da população.
 
-A história das sociedades até então, dizem os autores, desenvolveu-se em meio a antagonismos de classe.
+Sua existência concentrada nas mãos de uma minoria dependeria justamente da ausência de propriedade para essa maioria.
 
-As formas desses antagonismos mudaram, mas a oposição entre classes permaneceu.
+Por isso, dizem os autores, acusar os comunistas de querer abolir essa forma de propriedade significa acusá-los de querer abolir uma relação cuja condição de existência é que a maioria não possua propriedade desse tipo.
 
-Quando as antigas relações sociais se transformam, as ideias associadas a elas também se transformam.
+Em uma frase: vocês nos acusam de querer abolir **a propriedade de vocês**.
 
-A revolução comunista é descrita como uma ruptura radical com as relações tradicionais de propriedade. Por isso, ela também implicaria mudanças profundas nas ideias e instituições produzidas por essas relações.
+E, respondem Marx e Engels, é exatamente isso.
 
-O primeiro passo da revolução operária seria elevar o proletariado à condição de classe dominante e conquistar a democracia.
+A partir do momento em que o trabalho não puder mais ser convertido em capital, dinheiro, renda da terra ou outro poder social monopolizável, a propriedade individual já não poderá ser transformada em propriedade burguesa, isto é, em capital.
 
-O proletariado utilizaria seu poder político para retirar gradualmente da burguesia o controle concentrado do capital e centralizar os principais instrumentos de produção nas mãos da sociedade organizada politicamente.
+Nesse momento, argumentam os autores, a burguesia afirma que a individualidade foi abolida.
 
-Esse processo não poderia acontecer de uma única vez.
+Isso revelaria que, quando fala em “indivíduo”, está pensando principalmente no indivíduo burguês, o proprietário.
 
-No início, exigiria intervenções nas relações de propriedade e nas formas burguesas de produção que, consideradas isoladamente, poderiam parecer insuficientes, mas que impulsionariam transformações mais amplas.
+É essa forma histórica de indivíduo econômico que o comunismo pretende tornar impossível.
 
-As medidas concretas dependeriam de cada país.
+O comunismo, prossegue o texto, não retira de ninguém o poder de se apropriar de uma parte dos produtos sociais para seu próprio uso.
 
-No contexto dos países mais desenvolvidos da época, Marx e Engels mencionam medidas como:
+Ele retira o poder de transformar essa apropriação em instrumento para dominar o trabalho de outras pessoas.
 
-1\. Limitação da grande propriedade fundiária e utilização da renda da terra para fins públicos.
+Outra acusação afirma que, se a propriedade privada burguesa for abolida, toda atividade cessará e a sociedade será tomada pela preguiça.
 
-2\. Tributação fortemente progressiva.
+Marx e Engels respondem ironicamente que, se isso fosse verdade, a sociedade burguesa já teria morrido de ociosidade, porque nela, segundo sua crítica, aqueles que trabalham não acumulam e aqueles que acumulam grandes riquezas não necessariamente trabalham diretamente na produção.
 
-3\. Transformação das regras de herança.
+A objeção, dizem eles, reduz-se a afirmar que não haverá trabalho assalariado quando não houver capital.
 
-4\. Medidas contra a fuga de capitais e contra ações de setores que resistissem violentamente à transformação política.
+As acusações dirigidas contra o comunismo no campo da produção material também aparecem, segundo o Manifesto, no campo da produção intelectual.
 
-5\. Centralização do crédito em instituições públicas sob controle social.
+Assim como a burguesia identifica o desaparecimento da propriedade de classe com o desaparecimento de toda produção, identifica o desaparecimento da cultura de classe com o desaparecimento de toda cultura.
 
-6\. Centralização dos principais meios de transporte e comunicação.
+A cultura cuja perda a burguesia lamenta seria, para a maioria das pessoas, uma formação que as prepara para desempenhar funções dentro da máquina social existente.
 
-7\. Ampliação dos meios de produção administrados socialmente e uso planejado da terra.
+Marx e Engels rejeitam discutir a abolição da propriedade burguesa usando como critério absoluto as próprias noções burguesas de liberdade, cultura e direito.
 
-8\. Organização social do trabalho, acompanhada de mudanças na relação entre cidade e campo.
+Essas ideias, argumentam, também são produto das relações burguesas de produção e propriedade.
 
-9\. Integração maior entre agricultura e indústria e redução progressiva da oposição entre cidade e campo.
+O direito burguês é definido polemicamente como a vontade da classe burguesa transformada em lei, uma vontade cujo conteúdo é determinado pelas condições materiais de existência dessa classe.
 
-10\. Educação pública para todas as crianças e transformação das condições em que educação e trabalho se relacionam.
+Os autores acusam a burguesia de transformar suas próprias relações históricas e transitórias em leis eternas da natureza e da razão.
 
-Essas medidas aparecem no manifesto como medidas de transição, não como definição completa da futura sociedade comunista.
+Classes dominantes anteriores fizeram algo semelhante.
 
-Quando, no curso do desenvolvimento, as diferenças de classe desaparecessem e a produção estivesse organizada como associação dos produtores, o poder político perderia seu caráter de poder de uma classe sobre outra.
+A burguesia aceita que propriedade antiga e propriedade feudal foram formas históricas e passageiras, mas recusaria aplicar a mesma lógica à propriedade burguesa.
 
-O poder político, em sentido estrito, é definido no manifesto como poder organizado de uma classe para oprimir outra.
+Surge então outra acusação: **“Abolição da família!”**
 
-Se o proletariado, em sua luta contra a burguesia, se organiza como classe, conquista o poder político e transforma as relações de produção, ao fazer isso elimina as condições que produzem os antagonismos de classe.
+Até os críticos mais radicais, dizem os autores, ficam indignados diante dessa ideia atribuída aos comunistas.
 
-Com o desaparecimento das classes, desapareceria também a necessidade de uma dominação política de classe.
+Mas sobre que base repousa a família burguesa moderna?
 
-No lugar da antiga sociedade burguesa, com suas classes e seus antagonismos, surgiria uma associação na qual o livre desenvolvimento de cada pessoa seria condição para o livre desenvolvimento de todas.
+Segundo o Manifesto, sobre o capital e o ganho privado.
+
+Essa forma de família existe plenamente sobretudo para a burguesia e encontra seu complemento, entre os proletários, na destruição econômica dos vínculos familiares e na prostituição.
+
+A família burguesa desapareceria, portanto, junto com as condições econômicas que a sustentam.
+
+Os comunistas são acusados de querer abolir a exploração dos filhos pelos próprios pais.
+
+Marx e Engels respondem provocativamente: “confessamos esse crime”.
+
+Também são acusados de destruir os vínculos mais íntimos ao substituir educação doméstica por educação social.
+
+Os autores respondem que a educação já é socialmente determinada.
+
+Ela já depende das condições em que as pessoas vivem e da intervenção direta ou indireta da sociedade por meio das escolas, instituições e relações sociais.
+
+Os comunistas não inventaram a influência social sobre a educação; pretendem mudar seu caráter e retirar a educação da influência predominante da classe dominante.
+
+As declarações sentimentais da burguesia sobre família e educação, acrescentam os autores, tornam-se ainda mais contraditórias quando a grande indústria destrói vínculos familiares entre proletários e transforma crianças em força de trabalho.
+
+Surge então a acusação de que os comunistas desejam instituir uma “comunidade de mulheres”.
+
+Marx e Engels respondem que, para o burguês criticado no texto, a mulher é tratada como instrumento de produção.
+
+Ao ouvir que os instrumentos de produção seriam colocados em comum, ele conclui que as mulheres também seriam colocadas em comum.
+
+Mas, dizem os autores, a questão seria justamente retirar a mulher da condição de instrumento de produção.
+
+Eles ridicularizam a indignação moral da burguesia diante da suposta comunidade comunista de mulheres.
+
+Segundo sua crítica, relações de exploração sexual, prostituição e adultério já produziriam, dentro da própria sociedade burguesa, uma espécie de “comunidade” hipócrita e não assumida.
+
+O casamento burguês é atacado de modo particularmente duro: Marx e Engels dizem que a burguesia acusa os comunistas de querer tornar pública e oficial uma prática que, de forma disfarçada, já existiria.
+
+Com a abolição das relações de produção existentes, afirmam, desapareceriam também as relações de prostituição oficial e não oficial que derivariam delas.
+
+Outra acusação: os comunistas querem abolir a pátria e a nacionalidade.
+
+Os trabalhadores, respondem Marx e Engels, não possuem pátria no mesmo sentido da classe dominante.
+
+Não se pode retirar deles aquilo que, nessa relação de classe, eles não possuem.
+
+Mas, como o proletariado precisa primeiro conquistar o poder político, elevar-se à condição de classe dirigente da nação e constituir-se como força nacional, ele ainda é nacional nesse sentido inicial — embora não no sentido burguês.
+
+As diferenças e antagonismos nacionais entre os povos já estariam diminuindo com o desenvolvimento da burguesia, a liberdade de comércio, o mercado mundial, a uniformização da produção industrial e as condições de vida correspondentes.
+
+A supremacia do proletariado aceleraria esse processo.
+
+A ação comum dos proletários, pelo menos nos países industrializados, é apresentada como uma das primeiras condições de sua emancipação.
+
+Abolida a exploração de uma pessoa por outra, dizem os autores, seria também abolida a exploração de uma nação por outra.
+
+Quando desaparecessem os antagonismos de classe dentro das nações, desapareceria também a hostilidade entre as próprias nações.
+
+Quanto às acusações feitas ao comunismo em nome da religião, da filosofia e da ideologia em geral, Marx e Engels dizem que elas não exigem uma discussão muito extensa.
+
+As ideias, concepções e formas de consciência das pessoas mudam quando mudam suas condições de vida, suas relações sociais e sua existência social.
+
+A história das ideias mostra, segundo eles, que a produção intelectual se transforma junto com a produção material.
+
+As ideias dominantes de cada época são, em sua formulação conhecida, as ideias da classe dominante.
+
+Quando se fala de ideias que revolucionam uma sociedade inteira, isso significa que dentro da velha sociedade já se formaram elementos de uma sociedade nova e que a dissolução das antigas ideias acompanha a dissolução das antigas condições de vida.
+
+Quando o mundo antigo estava em declínio, as antigas religiões foram superadas pelo cristianismo.
+
+Quando, no século XVIII, ideias cristãs perderam terreno para ideias racionalistas, a sociedade feudal travava sua luta final contra a burguesia então revolucionária.
+
+As ideias de liberdade religiosa e liberdade de consciência expressavam, para os autores, mudanças sociais mais amplas ligadas ao avanço da concorrência.
+
+Mas alguém poderia responder: ideias religiosas, morais, filosóficas, políticas e jurídicas mudam ao longo da história, porém religião, moral, filosofia, política e direito sempre continuaram existindo.
+
+Além disso, poderia dizer o crítico, existem verdades eternas como liberdade e justiça, comuns a todas as sociedades.
+
+O comunismo, ao querer abolir religião e moral em vez de apenas transformá-las, entraria em conflito com toda a experiência histórica anterior.
+
+A resposta de Marx e Engels é que a história das sociedades até então foi marcada pelo desenvolvimento de antagonismos de classe em formas diferentes.
+
+Independentemente da forma específica desses antagonismos, a exploração de uma parte da sociedade por outra teria sido comum às sociedades de classe.
+
+Não seria surpreendente, portanto, que a consciência social também tenha se movido durante séculos dentro de certas formas comuns.
+
+Essas formas só se dissolveriam completamente com o desaparecimento dos próprios antagonismos de classe.
+
+A revolução comunista é apresentada como a ruptura mais radical com as relações tradicionais de propriedade.
+
+Por isso, dizem os autores, não é estranho que também envolva uma ruptura radical com ideias tradicionais.
+
+Mas deixemos de lado, dizem eles, as objeções da burguesia ao comunismo.
+
+A primeira etapa da revolução operária seria elevar o proletariado à condição de classe dominante e conquistar a democracia.
+
+O proletariado utilizaria sua supremacia política para retirar gradualmente da burguesia todo o capital, centralizar os instrumentos de produção nas mãos do Estado — entendido aqui como o proletariado organizado como classe dominante — e aumentar o mais rapidamente possível o conjunto das forças produtivas.
+
+No início, isso só poderia acontecer, segundo o texto, por intervenções fortes no direito de propriedade e nas relações burguesas de produção.
+
+Essas medidas poderiam parecer economicamente insuficientes ou instáveis quando observadas isoladamente, mas seriam usadas como instrumentos para avançar para transformações mais amplas de todo o modo de produção.
+
+As medidas concretas seriam diferentes em cada país.
+
+Nos países mais desenvolvidos da época, Marx e Engels listam, de modo geral, as seguintes:
+
+1. **Expropriação da propriedade fundiária** e uso da renda da terra para fins públicos.
+2. **Imposto fortemente progressivo.**
+3. **Abolição do direito de herança.**
+4. **Confisco da propriedade de emigrados e rebeldes**, no contexto revolucionário imaginado pelos autores.
+5. **Centralização do crédito nas mãos do Estado**, por meio de um banco nacional com capital estatal e monopólio exclusivo.
+6. **Centralização dos meios de transporte nas mãos do Estado.**
+7. **Ampliação das fábricas e instrumentos de produção pertencentes ao Estado**, cultivo de terras não utilizadas e melhoria das terras segundo um plano geral.
+8. **Obrigação igual de trabalhar para todos** e criação de exércitos industriais, especialmente para a agricultura.
+9. **Combinação entre agricultura e indústria**, acompanhada de medidas para reduzir gradualmente a separação entre cidade e campo.
+10. **Educação pública e gratuita para todas as crianças**, abolição do trabalho infantil nas fábricas em sua forma então existente e integração entre educação e produção material.
+
+Quando, ao longo desse desenvolvimento, as distinções de classe tivessem desaparecido e a produção estivesse concentrada nas mãos de uma ampla associação de produtores, o poder público perderia seu caráter político de classe.
+
+O poder político, em sentido estrito, é definido no Manifesto como o poder organizado de uma classe para oprimir outra.
+
+Se o proletariado, em sua luta contra a burguesia, é levado pelas circunstâncias a se organizar como classe; se, por meio de uma revolução, torna-se classe dominante; e se, nessa condição, elimina à força as antigas relações de produção, então elimina junto com elas as condições de existência dos antagonismos de classe.
+
+Ao eliminar as condições de existência das classes, eliminaria também sua própria supremacia enquanto classe.
+
+No lugar da antiga sociedade burguesa, com suas classes e antagonismos, surgiria uma associação em que **o livre desenvolvimento de cada pessoa seria condição para o livre desenvolvimento de todas**.
 
 # III. LITERATURA SOCIALISTA E COMUNISTA
 
-## 1\. O socialismo reacionário
+## 1. O SOCIALISMO REACIONÁRIO
 
-## a) O socialismo feudal
+### a) O socialismo feudal
 
-As aristocracias francesa e inglesa, derrotadas politicamente pela burguesia, passaram a criticar a nova sociedade que surgia.
+Por causa de sua posição histórica, coube às aristocracias da França e da Inglaterra escrever panfletos contra a sociedade burguesa moderna.
 
-Sem condições de recuperar diretamente seu antigo poder, setores da aristocracia procuraram apresentar acusações contra a burguesia em nome dos trabalhadores.
+Na Revolução Francesa de julho de 1830 e no movimento inglês pela reforma parlamentar, essas aristocracias foram novamente derrotadas pela burguesia em ascensão.
 
-Criticavam o capitalismo moderno, mas faziam isso a partir da nostalgia da antiga ordem feudal.
+A partir daí, uma luta política séria contra a burguesia tornou-se praticamente impossível para elas. Restava sobretudo a luta literária.
 
-Essa crítica podia perceber problemas reais da sociedade burguesa, mas sua finalidade era reacionária: queria utilizar o sofrimento do proletariado como argumento contra a burguesia, sem defender a emancipação do próprio proletariado.
+Mesmo nesse terreno, porém, já não funcionavam as antigas palavras de ordem da Restauração.
 
-Quando falavam da exploração produzida pela burguesia, esqueciam que a sociedade feudal também era baseada em exploração de classe.
+Para despertar simpatia, a aristocracia precisou aparentar que deixava de lado seus próprios interesses e formular sua acusação contra a burguesia em nome da classe trabalhadora explorada.
 
-E quando apontavam o crescimento de uma classe revolucionária produzida pelo capitalismo, revelavam seu verdadeiro medo: não a exploração dos trabalhadores, mas a possibilidade de uma transformação social que atingisse todas as classes dominantes.
+Assim, vingava-se dos novos senhores por meio de sátiras e advertências sombrias sobre a catástrofe que estaria por vir.
 
-Por isso, o socialismo feudal combinava crítica à burguesia com defesa de instituições antigas, hierarquias tradicionais e formas sociais que o próprio desenvolvimento histórico estava destruindo.
+Desse modo surgiu o **socialismo feudal**: metade lamentação, metade sátira; metade eco do passado, metade ameaça sobre o futuro.
 
-Em certos contextos, esse discurso se misturava ao chamado socialismo clerical.
+Em alguns momentos, sua crítica amarga, inteligente e cortante atingia a burguesia em pontos sensíveis. Mas seu efeito acabava sendo ridículo, segundo Marx e Engels, porque essa corrente era incapaz de compreender o movimento da história moderna.
 
-O ascetismo cristão podia ser apresentado com aparência socialista: condenação da riqueza, caridade, pobreza voluntária e crítica à ganância.
+A aristocracia agitava diante do povo a sacola do mendigo proletário como se fosse sua bandeira.
 
-Mas, para Marx e Engels, vestir críticas sociais com linguagem religiosa não eliminava as estruturas de classe que elas deixavam intactas.
+Mas, sempre que o povo se aproximava, via nas costas desses aristocratas os antigos brasões feudais e se afastava, segundo a imagem irônica do Manifesto, às gargalhadas.
 
-## b) O socialismo pequeno-burguês
+Uma parte dos legitimistas franceses e o movimento da “Jovem Inglaterra” ofereceram exemplos desse espetáculo.
 
-A aristocracia feudal não foi a única classe destruída ou enfraquecida pelo desenvolvimento da burguesia.
+Quando os defensores do feudalismo observam que seu modo de exploração era diferente do modo burguês, esquecem que exploravam dentro de condições históricas completamente diferentes e já superadas.
 
-A pequena burguesia medieval e os pequenos camponeses foram antecedentes de setores da burguesia moderna.
+Quando ressaltam que, sob o feudalismo, não existia o proletariado moderno, esquecem que a burguesia moderna nasceu necessariamente de sua própria sociedade.
 
-Nos países onde a indústria e o comércio ainda não estavam completamente desenvolvidos, essas camadas continuavam existindo ao lado da burguesia em crescimento.
+Na verdade, dizem os autores, eles mal escondem o caráter reacionário de sua crítica.
 
-Mesmo nas sociedades mais industrializadas, novas camadas médias continuavam surgindo, mas sua existência era instável. A concorrência e a concentração do capital ameaçavam constantemente empurrá-las para o proletariado.
+Sua principal acusação contra a burguesia acaba sendo esta: sob o domínio burguês desenvolve-se uma classe destinada a destruir toda a antiga ordem social.
 
-Por essa razão, surgiu uma forma de socialismo que criticava a sociedade burguesa do ponto de vista da pequena burguesia.
+O que mais censuram na burguesia não é simplesmente ter produzido um proletariado, mas ter produzido um **proletariado revolucionário**.
 
-Esse socialismo analisava com bastante força algumas contradições do capitalismo.
+Por isso, na prática política, esses aristocratas apoiam medidas repressivas contra a classe trabalhadora.
 
-Mostrava os efeitos destrutivos das máquinas e da divisão do trabalho, a concentração de capital e propriedade, as crises, a insegurança dos pequenos produtores, a pobreza do proletariado, a desigualdade na distribuição da riqueza e as tensões entre as nações.
+E, na vida cotidiana, apesar de toda sua linguagem elevada, não hesitam em participar dos lucros e negócios da nova indústria.
 
-Mas, em suas soluções, procurava frequentemente restaurar antigas formas de produção e troca.
+Trocam, ironizam Marx e Engels, verdade, amor e honra pelo comércio de lã, açúcar de beterraba e bebidas destiladas.
 
-Queria recuperar, de algum modo, a pequena propriedade, a produção artesanal ou relações econômicas que o próprio desenvolvimento industrial estava superando.
+Assim como o padre e o senhor feudal historicamente andaram lado a lado, o **socialismo clerical** acompanha o socialismo feudal.
 
-Por isso, apesar de sua crítica real ao capitalismo, essa corrente acabava sendo conservadora ou utópica.
+Nada é mais fácil do que dar ao ascetismo cristão uma aparência socialista.
 
-Queria os benefícios da sociedade moderna sem aceitar as condições históricas que os produziram.
+O cristianismo não criticou a riqueza, a propriedade, o casamento e o Estado em determinados momentos? Não pregou caridade, pobreza, celibato e mortificação?
 
-## c) O socialismo alemão, ou “verdadeiro” socialismo
+Para Marx e Engels, o socialismo cristão dessa espécie é apenas a água benta com que o sacerdote consagra o ressentimento da aristocracia.
 
-Ideias socialistas e comunistas francesas chegaram à Alemanha num momento em que as condições sociais alemãs eram diferentes das condições francesas.
+**Nota de Engels.** Ao falar da Restauração, a edição inglesa de 1888 esclarece que o texto se refere à Restauração francesa de 1814–1830, e não à Restauração inglesa.
 
-Pensadores alemães receberam essas obras principalmente como textos filosóficos.
+### b) O socialismo pequeno-burguês
 
-Em vez de partir diretamente das lutas políticas e sociais que deram origem àquelas ideias, traduziram-nas para a linguagem abstrata da filosofia.
+A aristocracia feudal não foi a única classe derrubada ou enfraquecida pela burguesia.
 
-Assim, críticas muito concretas à propriedade, ao Estado e às classes podiam ser transformadas em discussões sobre “essência humana”, “alienação do homem”, “humanidade verdadeira” e outras fórmulas gerais.
+Os pequenos burgueses e pequenos camponeses da Idade Média foram precursores da burguesia moderna.
 
-Marx e Engels criticam esse processo porque ele retirava das ideias socialistas seu conteúdo histórico concreto.
+Em países onde indústria e comércio ainda estavam pouco desenvolvidos, essas camadas continuavam existindo ao lado da burguesia em ascensão.
 
-A literatura socialista francesa havia expressado, ainda que de formas diferentes, conflitos sociais reais.
+Nos países em que a civilização burguesa moderna se desenvolveu plenamente, formou-se uma nova pequena burguesia, situada entre proletariado e burguesia.
 
-Quando essas ideias eram transplantadas para uma sociedade com outro estágio de desenvolvimento, sem levar em conta essa diferença, podiam se transformar em especulação intelectual.
+Essa camada é constantemente recriada, mas seus membros são continuamente empurrados para o proletariado pela concorrência.
 
-Mais tarde, esse “verdadeiro socialismo” passou a ser utilizado por setores conservadores alemães contra a burguesia liberal.
+Com o avanço da grande indústria, aproximar-se-ia o momento em que essa pequena burguesia deixaria de existir como camada independente e seria substituída, no comércio, na manufatura e na agricultura, por administradores, supervisores e empregados.
 
-Como a burguesia alemã lutava contra estruturas políticas antigas, atacar indiscriminadamente suas ideias de liberdade, representação política e direitos civis podia acabar ajudando os governos absolutistas.
+Em países como a França daquele período, onde os camponeses representavam mais da metade da população, era natural que escritores que defendiam trabalhadores contra a burguesia aplicassem à crítica do capitalismo critérios pequenos-burgueses e camponeses.
 
-Dessa maneira, uma linguagem aparentemente radical podia desempenhar uma função política conservadora.
+Assim se formou o **socialismo pequeno-burguês**.
 
-Ao mesmo tempo, esse socialismo apresentava-se como defensor das pequenas camadas médias alemãs contra a expansão do capitalismo moderno.
+Marx e Engels apontam Sismondi como principal representante dessa literatura, não apenas na França, mas também na Inglaterra.
 
-Na prática, defendia a preservação de uma sociedade que estava sendo transformada pelo desenvolvimento da burguesia e do proletariado.
+Esse socialismo analisou com grande profundidade várias contradições das relações modernas de produção.
 
-## 2\. O socialismo conservador ou burguês
+Expôs as justificativas hipócritas dos economistas.
 
-Uma parte da burguesia percebe os problemas sociais produzidos pelo capitalismo e deseja corrigi-los para preservar a própria sociedade burguesa.
+Demonstrou os efeitos destrutivos das máquinas e da divisão do trabalho; a concentração de capitais e da propriedade da terra; a superprodução e as crises; a ruína dos pequenos burgueses e camponeses; a pobreza do proletariado; a desorganização da produção; a desigualdade extrema na distribuição da riqueza; a guerra econômica entre as nações; e a dissolução de antigos costumes, relações familiares e nacionalidades.
 
-Nesse grupo estão economistas, filantropos, reformadores sociais e todos aqueles que querem melhorar as condições de vida sem alterar as relações fundamentais entre capital e trabalho.
+Mas, em suas propostas positivas, esse socialismo procurava ou restaurar os antigos meios de produção e de troca — e, com eles, as antigas relações de propriedade e a antiga sociedade — ou encaixar à força os meios modernos de produção dentro das antigas relações de propriedade que esses próprios meios já haviam destruído.
 
-Esse socialismo deseja a sociedade burguesa sem seus conflitos.
+Nos dois casos, concluem os autores, ele é ao mesmo tempo **reacionário e utópico**.
 
-Quer a burguesia sem o proletariado como classe antagonista.
+Para a manufatura, corporações de ofício.
 
-Quer conservar as condições de produção existentes, mas eliminar suas consequências desagradáveis.
+Para a agricultura, relações patriarcais.
 
-Por isso, pode defender assistência social, reformas administrativas, melhores condições sanitárias, instituições de caridade ou medidas que reduzam tensões sociais.
+Essa seria sua última palavra.
 
-Essas medidas podem melhorar situações concretas.
+Quando os fatos históricos tornaram impossível sustentar esse programa, essa corrente caiu numa profunda frustração.
 
-A crítica do manifesto não é simplesmente que toda reforma seja inútil, mas que esse tipo de socialismo apresenta reformas internas ao sistema como se fossem capazes de eliminar o antagonismo de classe sem tocar em suas bases.
+### c) O socialismo alemão, ou “verdadeiro” socialismo
 
-Sua fórmula poderia ser resumida assim: mudanças sociais, desde que as relações fundamentais da sociedade permaneçam intactas.
+A literatura socialista e comunista francesa nasceu sob a pressão de uma burguesia já dominante e expressava a luta contra esse domínio.
 
-Esse socialismo diz aos trabalhadores que não precisam transformar a sociedade, apenas abandonar a luta de classes e aceitar melhorias concedidas dentro da ordem existente.
+Ela foi introduzida na Alemanha quando a burguesia alemã apenas começava sua luta contra o absolutismo feudal.
 
-Para Marx e Engels, isso não emancipa o proletariado.
+Filósofos, aspirantes a filósofos e escritores alemães apropriaram-se rapidamente dessa literatura.
 
-## 3\. O socialismo e o comunismo crítico-utópicos
+Mas esqueceram uma coisa: quando os textos franceses atravessaram a fronteira, as condições sociais francesas não atravessaram junto com eles.
 
-Os primeiros sistemas socialistas e comunistas surgiram num período em que a luta entre proletariado e burguesia ainda não estava plenamente desenvolvida.
+Nas condições alemãs, essa literatura perdeu seu significado político imediato e assumiu um caráter principalmente filosófico e literário.
 
-Pensadores como Saint-Simon, Fourier e Owen perceberam contradições profundas da nova sociedade industrial.
+As reivindicações concretas nascidas das lutas francesas foram reinterpretadas como questões abstratas sobre a realização da “natureza humana”, a “razão prática”, a “vontade verdadeira” e o “homem em geral”.
 
-Criticaram a pobreza, a desigualdade, a concorrência e a destruição de vínculos sociais.
+O trabalho dos autores alemães consistiu, assim, em harmonizar as ideias francesas com sua antiga consciência filosófica — ou, melhor, em apropriar-se das ideias francesas sem abandonar seu próprio ponto de vista filosófico.
 
-Também imaginaram novas formas de organização da produção e da vida coletiva.
+Fizeram isso como alguém que aprende uma língua estrangeira por meio da tradução.
 
-Marx e Engels reconhecem o valor histórico dessas críticas.
+Marx e Engels recorrem a uma comparação irônica.
 
-Esses autores atacaram os fundamentos da sociedade existente e contribuíram para ampliar a consciência sobre seus problemas.
+Na Idade Média, monges escreviam histórias de santos sobre manuscritos de obras pagãs da Antiguidade.
 
-Propuseram a superação da oposição entre cidade e campo, a transformação da educação, novas formas de organização produtiva e uma sociedade mais igualitária.
+Os escritores alemães fizeram o movimento inverso: escreveram sua metafísica filosófica sobre a crítica social francesa.
 
-Mas as condições históricas ainda não permitiam compreender claramente o proletariado como força política independente.
+Sob a crítica francesa às funções do dinheiro, colocaram expressões sobre “alienação da essência humana”.
 
-Como o proletariado ainda aparecia como uma classe pouco desenvolvida, esses socialistas procuravam um sujeito externo capaz de realizar suas propostas.
+Sob a crítica ao Estado burguês, colocaram fórmulas sobre a superação do “universal abstrato”.
 
-Imaginavam convencer a sociedade pela razão, pelo exemplo ou pela criação experimental de comunidades ideais.
+E assim por diante.
 
-Em vez de compreender a transformação social como resultado da luta de classes, buscavam planos universais que pudessem ser aceitos por todas as classes.
+A essa inserção de linguagem filosófica nas críticas francesas deram nomes como “filosofia da ação”, “verdadeiro socialismo”, “ciência alemã do socialismo” e “fundamentação filosófica do socialismo”.
 
-Por isso, os autores do manifesto chamam esses sistemas de utópicos.
+Com isso, afirmam Marx e Engels, esvaziaram o conteúdo político da literatura socialista e comunista francesa.
 
-Seu caráter utópico não significa que todas as suas propostas fossem absurdas.
+Como essa literatura deixou, nas mãos alemãs, de expressar diretamente a luta entre classes, seus intérpretes imaginaram ter superado a “estreiteza francesa”.
 
-Significa que tentavam antecipar, por meio de projetos intelectuais, aquilo que Marx e Engels acreditavam que deveria surgir do desenvolvimento histórico e da ação política de classes reais.
+Passaram a dizer que defendiam não necessidades concretas, mas “a necessidade do verdadeiro”; não os interesses do proletário, mas os interesses do “ser humano” em geral — um ser humano abstrato, sem classe e sem existência histórica real.
 
-À medida que a luta de classes se desenvolvia, insistir nesses modelos fechados passava, segundo o manifesto, a ter um efeito conservador.
+Com o tempo, porém, esse socialismo alemão perdeu sua aparência de inocente exercício acadêmico.
 
-Os seguidores desses sistemas podiam acabar rejeitando a organização política dos trabalhadores e defendendo experiências isoladas em lugar da luta social mais ampla.
+A luta da burguesia alemã — especialmente da burguesia prussiana — contra a aristocracia feudal e a monarquia absoluta tornou-se mais séria.
 
-Ainda assim, Marx e Engels reconhecem que os escritos crítico-utópicos possuem importância histórica porque contêm críticas poderosas à sociedade burguesa e antecipam várias questões que seriam retomadas pelo movimento socialista.
+O movimento liberal avançava.
+
+O “verdadeiro socialismo” encontrou então a oportunidade que desejava: opor reivindicações socialistas ao movimento político liberal.
+
+Passou a atacar o liberalismo, o governo representativo, a concorrência burguesa, a liberdade de imprensa, o direito burguês, a liberdade e a igualdade burguesas.
+
+Pregava às massas que nada tinham a ganhar com o movimento burguês e que, ao contrário, poderiam perder tudo.
+
+Mas, dizem os autores, esquecia convenientemente que a crítica socialista francesa pressupunha a existência de uma sociedade burguesa moderna, com suas condições materiais e sua organização política — justamente aquilo que a Alemanha ainda buscava conquistar.
+
+Para os governos absolutistas alemães, cercados de sacerdotes, funcionários, professores e proprietários rurais, esse socialismo tornou-se uma arma útil contra a burguesia que começava a se levantar.
+
+Sua linguagem adocicada funcionou como complemento ideológico das medidas repressivas adotadas contra trabalhadores alemães.
+
+Assim, ao mesmo tempo que servia como arma dos governos contra a burguesia, o “verdadeiro socialismo” representava diretamente um interesse reacionário: o interesse da pequena burguesia alemã.
+
+Essa pequena burguesia, herdada de séculos anteriores e constantemente renovada sob novas formas, era uma das bases sociais da ordem existente.
+
+Preservá-la significava preservar aquela ordem.
+
+Mas a ascensão econômica e política da burguesia ameaçava essa pequena burguesia de dois lados: pela concentração do capital e pelo desenvolvimento de um proletariado revolucionário.
+
+O “verdadeiro socialismo” parecia oferecer-lhe uma arma contra os dois inimigos.
+
+Por isso, espalhou-se amplamente.
+
+Marx e Engels ridicularizam a linguagem dessa literatura: uma roupa feita de fios de especulação abstrata, bordada com flores retóricas e coberta pelo orvalho do sentimentalismo.
+
+Essa roupagem tornava mais vendável, entre o público pequeno-burguês, o conteúdo pobre de suas “verdades eternas”.
+
+O socialismo alemão passou então a se apresentar como representante grandioso da pequena burguesia.
+
+Proclamou a nação alemã como nação exemplar e o pequeno-burguês alemão como modelo de ser humano.
+
+Deu a cada limitação desse tipo social um significado oculto e “superior”.
+
+E levou essa posição até o fim, opondo-se à tendência “brutalmente destrutiva” do comunismo e declarando estar acima de todas as lutas de classes.
+
+## 2. O SOCIALISMO CONSERVADOR OU BURGUÊS
+
+Uma parte da própria burguesia deseja corrigir os males sociais para garantir a continuidade da sociedade burguesa.
+
+Nessa categoria, Marx e Engels colocam economistas, filantropos, humanitários, reformadores das condições de trabalho, organizadores de caridade, defensores do bem-estar animal, promotores da temperança e reformadores administrativos de diferentes tipos.
+
+Em alguns casos, esse socialismo burguês foi desenvolvido em sistemas completos.
+
+Os autores citam Proudhon como exemplo.
+
+Os socialistas burgueses querem conservar as condições de vida da sociedade moderna sem as lutas e perigos que necessariamente nascem delas.
+
+Querem a sociedade existente, mas sem os elementos que a revolucionam e a dissolvem.
+
+Querem, na formulação provocativa do Manifesto, **a burguesia sem o proletariado**.
+
+A burguesia naturalmente imagina que o mundo em que domina é o melhor dos mundos possíveis.
+
+O socialismo burguês transforma essa ideia numa doutrina mais ou menos sistemática.
+
+Quando convida o proletariado a entrar nesse sistema, na prática pede que permaneça dentro da sociedade existente, mas abandone sua hostilidade contra ela.
+
+Existe ainda uma forma menos sistemática e mais prática desse socialismo.
+
+Ela procura afastar os trabalhadores de qualquer movimento revolucionário afirmando que mudanças meramente políticas não lhes trariam benefícios e que o que importa seria transformar as condições materiais e econômicas.
+
+Mas, por “transformar as condições materiais”, essa corrente não entende abolir as relações burguesas de produção.
+
+Entende apenas reformas administrativas realizadas sobre a base dessas mesmas relações.
+
+Essas reformas não alteram a relação fundamental entre capital e trabalho assalariado.
+
+No máximo, reduzem os custos do domínio burguês e simplificam a administração de seu Estado.
+
+O socialismo burguês alcança sua expressão mais clara quando se torna simples figura de linguagem:
+
+Livre-comércio — no interesse da classe trabalhadora.
+
+Tarifas protecionistas — no interesse da classe trabalhadora.
+
+Reforma das prisões — no interesse da classe trabalhadora.
+
+Essa, dizem Marx e Engels, é sua palavra final.
+
+Sua fórmula poderia ser resumida assim:
+
+**o burguês continua burguês — para o bem da classe trabalhadora.**
+
+## 3. O SOCIALISMO E O COMUNISMO CRÍTICO-UTÓPICOS
+
+Marx e Engels esclarecem que não estão falando aqui da literatura que, nas grandes revoluções modernas, expressou diretamente reivindicações proletárias, como os escritos ligados a Babeuf.
+
+As primeiras tentativas diretas do proletariado de realizar seus próprios objetivos aconteceram durante a crise e derrubada da sociedade feudal.
+
+Essas tentativas fracassaram, segundo os autores, tanto porque o proletariado ainda estava pouco desenvolvido quanto porque ainda não existiam as condições econômicas para sua emancipação.
+
+Essas condições só seriam produzidas pelo desenvolvimento posterior da própria época burguesa.
+
+A literatura revolucionária que acompanhou esses primeiros movimentos proletários possuía, por isso, um conteúdo que Marx e Engels chamam de reacionário.
+
+Pregava ascetismo geral e uma forma grosseira de igualitarismo.
+
+Os sistemas socialistas e comunistas propriamente ditos — como os de Saint-Simon, Fourier e Owen — surgem no primeiro período ainda pouco desenvolvido da luta entre proletariado e burguesia.
+
+Seus fundadores enxergam os antagonismos de classe e percebem elementos que dissolvem a sociedade existente.
+
+Mas o proletariado, ainda em formação, aparece para eles como uma classe sem iniciativa histórica e sem movimento político independente.
+
+Como o desenvolvimento do antagonismo de classe acompanha o desenvolvimento da indústria, as condições econômicas existentes ainda não revelavam claramente os meios materiais para a emancipação do proletariado.
+
+Esses pensadores passam então a procurar uma nova ciência social e novas leis sociais capazes de criar tais condições.
+
+No lugar da ação histórica, colocam sua própria invenção.
+
+No lugar de condições de emancipação produzidas historicamente, colocam condições imaginadas.
+
+No lugar da organização gradual do proletariado como classe, colocam uma organização da sociedade desenhada previamente por seus autores.
+
+A história futura se reduz, em sua visão, à propaganda e à execução prática de seus planos sociais.
+
+Ao formular esses projetos, eles acreditam estar defendendo principalmente os interesses da classe trabalhadora, por considerá-la a classe que mais sofre.
+
+O proletariado existe para eles sobretudo sob esse aspecto: como classe sofredora.
+
+O estágio pouco desenvolvido da luta de classes e a própria posição social desses pensadores os levam a imaginar que estão acima de todos os antagonismos de classe.
+
+Eles querem melhorar a vida de todos os membros da sociedade, inclusive dos mais privilegiados.
+
+Por isso, apelam para toda a sociedade sem distinção de classe — e frequentemente apelam antes de tudo para a própria classe dominante.
+
+Afinal, pensam eles, se as pessoas compreenderem corretamente o sistema proposto, como poderiam deixar de reconhecer nele o melhor plano possível para a melhor sociedade possível?
+
+Essas correntes rejeitam, portanto, a ação política e especialmente a ação revolucionária.
+
+Pretendem alcançar seus objetivos por meios pacíficos, pelo exemplo e por experiências sociais em pequena escala.
+
+Para Marx e Engels, essas experiências estão condenadas ao fracasso.
+
+As imagens fantásticas da sociedade futura correspondem às primeiras aspirações instintivas de uma classe trabalhadora ainda pouco desenvolvida e que, por isso, também compreende sua própria situação de maneira incompleta.
+
+Apesar disso, os autores reconhecem que as obras socialistas e comunistas utópicas contêm elementos críticos importantes.
+
+Elas atacam fundamentos da sociedade existente e, por isso, forneceram materiais de grande valor para a formação política dos trabalhadores.
+
+Suas propostas para a sociedade futura incluíam a superação da separação entre cidade e campo, mudanças profundas na família, o fim da produção privada orientada pelo lucro, o fim do trabalho assalariado, a proclamação da harmonia social e a transformação do Estado em simples administração da produção.
+
+Todas essas propostas apontariam, no fundo, para o desaparecimento dos antagonismos de classe.
+
+Mas esses antagonismos estavam apenas começando a se desenvolver quando essas teorias foram formuladas e, por isso, aparecem nelas de forma vaga.
+
+Daí seu caráter utópico.
+
+A importância do socialismo e do comunismo crítico-utópicos diminui, segundo Marx e Engels, na mesma proporção em que a luta de classes se desenvolve e assume formas mais definidas.
+
+Quanto mais real e organizada se torna a luta, menos justificável se torna a tentativa de colocar-se acima dela por meio de modelos imaginários.
+
+Por isso, embora os fundadores desses sistemas tenham sido revolucionários em vários aspectos, as seitas formadas por seus discípulos tornam-se reacionárias quando continuam repetindo as concepções antigas apesar do desenvolvimento posterior do proletariado.
+
+Esses discípulos procuram atenuar a luta de classes e conciliar os antagonismos.
+
+Continuam sonhando com a realização experimental de suas utopias: falanstérios isolados, colônias-modelo, pequenas “Icárias” e novas Jerusaléns.
+
+Para construir esses projetos, acabam apelando aos bons sentimentos e ao dinheiro de filantropos burgueses.
+
+Gradualmente, aproximam-se das formas de socialismo reacionário ou conservador criticadas anteriormente, distinguindo-se principalmente por uma crença mais sistemática na eficácia milagrosa de sua ciência social.
+
+Por isso, opõem-se à ação política independente da classe trabalhadora, interpretando-a como sinal de falta de fé no novo evangelho social.
+
+Os owenistas na Inglaterra e os fourieristas na França, concluem Marx e Engels, acabaram se voltando respectivamente contra os cartistas e contra movimentos reformistas dos trabalhadores.
 
 # IV. POSIÇÃO DOS COMUNISTAS DIANTE DOS DIVERSOS PARTIDOS DE OPOSIÇÃO
 
-Depois de apresentar suas ideias gerais, Marx e Engels explicam como os comunistas se posicionam diante das forças políticas existentes em diferentes países.
+O que foi dito na Parte II é suficiente, afirmam Marx e Engels, para explicar a relação dos comunistas com os partidos operários já existentes — por exemplo, os cartistas na Inglaterra e os reformadores agrários nos Estados Unidos.
 
-A posição comunista é orientada por um princípio: apoiar todo movimento real que combata a ordem social e política existente, sem abandonar a defesa dos interesses próprios do proletariado.
+Os comunistas lutam pelos objetivos e interesses imediatos da classe trabalhadora.
 
-Isso significa que os comunistas podem atuar ao lado de outros grupos em determinadas lutas, mesmo quando esses grupos não compartilham de todo o programa comunista.
+Ao mesmo tempo, porém, procuram representar dentro do movimento presente o futuro do próprio movimento.
 
-Mas esse apoio não significa dissolver o movimento proletário dentro de outras forças.
+Na França, os comunistas se aliam aos socialistas democráticos contra a burguesia conservadora e radical, reservando-se o direito de manter uma posição crítica diante de frases, tradições e ilusões herdadas das revoluções anteriores.
 
-Os comunistas procuram sempre colocar em primeiro plano a questão da propriedade e da luta de classes e manter clara a diferença entre os objetivos imediatos de uma aliança política e os objetivos históricos do proletariado.
+Na Suíça, apoiam os radicais, sem esquecer que esse partido reúne elementos contraditórios: de um lado, democratas socialistas no sentido francês; de outro, burgueses radicais.
 
-Na França, os comunistas apoiam setores socialistas e democráticos contra a burguesia conservadora, mas mantêm uma posição crítica diante de ideias herdadas da tradição revolucionária que possam encobrir as diferenças de classe.
+Na Polônia, apoiam o partido que considera uma revolução agrária condição para a libertação nacional, isto é, o movimento relacionado à insurreição de Cracóvia de 1846.
 
-Na Suíça, apoiam forças radicais quando estas representam um avanço contra estruturas conservadoras, sem ignorar as contradições internas desses movimentos.
+Na Alemanha, o Partido Comunista luta ao lado da burguesia sempre que ela atua de modo revolucionário contra a monarquia absoluta, a propriedade feudal da terra e a pequena burguesia reacionária.
 
-Na Polônia, apoiam o movimento que liga a independência nacional a uma transformação profunda das relações agrárias.
+Mas, em nenhum momento, os comunistas deixam de procurar desenvolver entre os trabalhadores uma consciência clara do antagonismo entre burguesia e proletariado.
 
-Na Alemanha, os comunistas lutam ao lado da burguesia sempre que ela age de forma revolucionária contra a monarquia absoluta, a grande propriedade feudal e as forças reacionárias.
+O objetivo é que os trabalhadores alemães possam utilizar, como armas contra a própria burguesia, as condições sociais e políticas que a vitória burguesa necessariamente criaria.
 
-Mas, ao mesmo tempo, procuram desenvolver entre os trabalhadores uma consciência clara do antagonismo entre burguesia e proletariado.
+Assim, depois da derrota das classes reacionárias alemãs, poderia começar imediatamente a luta contra a burguesia.
 
-Isso porque, depois de derrotadas as antigas forças feudais, a própria burguesia alemã se tornaria rapidamente adversária política do proletariado.
+Marx e Engels dirigem especial atenção à Alemanha porque consideravam que o país estava às vésperas de uma revolução burguesa.
 
-Para Marx e Engels, a Alemanha encontrava-se diante de uma revolução burguesa que poderia ocorrer em condições mais avançadas do que as revoluções burguesas anteriores, justamente porque já existia um proletariado moderno em desenvolvimento.
+Essa revolução aconteceria, segundo eles, sob condições mais avançadas da civilização europeia e diante de um proletariado muito mais desenvolvido do que o existente na Inglaterra do século XVII ou na França do século XVIII.
 
-Por isso, uma transformação burguesa poderia funcionar como etapa imediata de conflitos sociais ainda mais amplos.
+Por isso, acreditavam que a revolução burguesa alemã poderia funcionar como prelúdio imediato de uma revolução proletária.
 
-Em todos os países, os comunistas apoiam movimentos revolucionários contra a ordem social e política existente.
+Em resumo, os comunistas apoiam em toda parte os movimentos revolucionários contra a ordem social e política existente.
 
-Em todos esses movimentos, colocam a questão da propriedade como uma questão central, independentemente da forma mais ou menos desenvolvida que ela tenha assumido em cada país.
+Em todos esses movimentos, colocam em primeiro plano a questão da **propriedade**, independentemente da forma mais ou menos desenvolvida que essa questão tenha assumido em cada país.
 
-Os comunistas também trabalham pela aproximação e entendimento entre partidos democráticos de diferentes países.
+Por fim, trabalham pela união e pelo entendimento entre os partidos democráticos dos diferentes países.
 
-Eles não escondem suas posições e seus objetivos.
+Os comunistas, conclui o Manifesto, recusam esconder suas opiniões e seus objetivos.
 
-Declaram abertamente que seus fins só podem ser alcançados por meio da transformação revolucionária das relações sociais existentes.
+Declaram abertamente que seus fins só podem ser alcançados pela derrubada violenta das condições sociais existentes.
 
-As classes dominantes podem temer uma revolução comunista.
+Que as classes dominantes tremam diante de uma revolução comunista.
 
-Os proletários, segundo o manifesto, nada têm a perder além das condições que os mantêm subordinados.
+Os proletários, segundo os autores, nada têm a perder além de suas correntes.
 
 Têm um mundo a conquistar.
 
-Proletários de todos os países, uni-vos\!
+**Proletários de todos os países, uni-vos!**
 
-# NOTA FINAL DE LEITURA
+---
 
-Esta edição preserva os conceitos e a estrutura central do Manifesto Comunista, mas reescreve a linguagem para facilitar a leitura contemporânea.
+## Notas editoriais da v2
 
-Ela deve ser lida como uma versão em português atual, e não como uma tradução acadêmica literal.
+Esta versão preserva as quatro partes do texto e o preâmbulo que antecede a Parte I.
 
-Sempre que um conceito marxista possui significado teórico próprio — como luta de classes, burguesia, proletariado, capital, meios de produção, trabalho assalariado, propriedade privada burguesa ou relações de produção — o termo é mantido em vez de ser substituído por uma expressão mais genérica.  
+Ela não incorpora como parte do Manifesto os prefácios escritos em 1872, 1882, 1883, 1888, 1890, 1892 e 1893. Esses documentos pertencem à história editorial da obra e devem ser apresentados separadamente.
+
+A edição inglesa de 1888 inclui notas de Friedrich Engels. Algumas foram incorporadas de forma resumida quando esclarecem termos históricos essenciais. Uma edição crítica futura pode apresentar todas as notas, em ordem, sem resumo.
+
+### Fontes de controle
+
+1. **Marxists Internet Archive — tradução inglesa de 1888**
+   - *Manifesto of the Communist Party*
+   - tradução de Samuel Moore em cooperação com Friedrich Engels;
+   - texto conferido pelo MIA com a edição inglesa de 1888.
+
+2. **Ridendo Castigat Mores / eBooksBrasil — edição em português**
+   - usada como referência cruzada para terminologia consolidada em português;
+   - não reproduzida literalmente nesta v2.
+
+### O que mudou em relação à v1
+
+A v1 era uma adaptação condensada.
+
+A v2 restaura, entre outros pontos:
+
+- o preâmbulo do “espectro do comunismo”;
+- a descrição integral das fases de formação do proletariado;
+- a referência ao lumpemproletariado;
+- a discussão detalhada sobre capital e trabalho assalariado;
+- os argumentos sobre “nove décimos” da população e propriedade privada;
+- as objeções e respostas sobre família, educação, mulheres, nacionalidade, religião, moral e direito;
+- as dez medidas da Parte II em formulação completa;
+- as críticas desenvolvidas ao socialismo feudal, pequeno-burguês, alemão, burguês e crítico-utópico;
+- a formulação mais direta da Parte IV sobre alianças políticas e revolução.
+
+O objetivo desta v2 não é tornar Marx e Engels mais aceitáveis, mais moderados ou mais atuais. É tornar a linguagem mais legível sem esconder a radicalidade, as categorias teóricas e as afirmações historicamente situadas do texto.

@@ -137,8 +137,14 @@ Esse é, no fundo, o princípio deste projeto:
 
 ## Arquivos binários
 
-Os PDFs foram gerados e preservados no pacote completo do projeto, mas o conector do GitHub disponível nesta sessão publica arquivos de texto e Git blobs a partir de conteúdo textual, sem receber diretamente os bytes dos arquivos locais. Por isso, os PDFs não foram apresentados como se estivessem no repositório quando não estão.
+O PDF da **v2 integral** foi gerado e validado localmente com 32 páginas. O conector do GitHub disponível nesta sessão não recebe diretamente os bytes de arquivos locais, por isso o PDF não foi publicado no repositório como se estivesse presente.
 
-SHA-256 da versão atualizada em PDF: `7f87931833e0a067368fe55151745808c019d1b9df2aa8077fc999e1cd8a8380`
+SHA-256 do PDF da v2 integral:
 
-SHA-256 da edição-base: `3277d5bbf04ecba777e65a7df00c5b2c8c18255b157330d6563292bc0118abd4`
+\`3eda34e3140e50b31da283690b6c6dbea3019308a5dfb12b2f32151e2d886196\`
+
+SHA-256 da edição-base em português:
+
+\`3277d5bbf04ecba777e65a7df00c5b2c8c18255b157330d6563292bc0118abd4\`
+
+Os hashes permitem confirmar a identidade exata dos arquivos binários usados e gerados durante o projeto.

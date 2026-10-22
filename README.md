@@ -72,6 +72,36 @@ Mesmo assim, toda atualização de linguagem envolve decisões editoriais. Por i
 | Edição-base usada no projeto | [identificação e verificação da fonte](./sources/README.md) |
 | Metodologia e transparência | [NOTICE.md](./NOTICE.md) |
 
+
+## Comparativo entre a edição-base e a versão atual
+
+| Métrica | Edição-base | Versão em linguagem atual | Diferença |
+|---|---:|---:|---:|
+| Páginas | 68 | 16 | -76,5% |
+| Palavras | aproximadamente 9.800 | 6.100 | aproximadamente -37,8% |
+| Tamanho do PDF | 383 KB | 61 KB | aproximadamente -84% |
+| Média de palavras por página | aproximadamente 144 | 381 | +165% |
+| Estrutura principal | introdução + 4 partes | 4 partes | a introdução original não está reproduzida integralmente |
+
+### Nota metodológica sobre a contagem
+
+A contagem de páginas e o tamanho dos arquivos são exatos.
+
+A contagem da versão atual também é exata, calculada diretamente sobre o arquivo Markdown.
+
+Já o PDF-base da edição Ridendo Castigat Mores possui um mapeamento de fontes antigo que impede a extração textual confiável. Por isso, a quantidade de palavras da edição-base é uma **estimativa obtida por reconhecimento visual/OCR de uma amostra ampla das páginas**, e deve ser lida como aproximada.
+
+### O que esse comparativo revela
+
+A diferença não é apenas de diagramação.
+
+A versão atual possui significativamente menos palavras do que a edição-base. Portanto, no estado atual deste repositório, é mais correto descrevê-la como uma **adaptação condensada em português contemporâneo**, preservando os principais conceitos e a linha geral do argumento, do que como uma modernização linha a linha do texto integral.
+
+Essa distinção é importante para a transparência do projeto.
+
+O objetivo de uma próxima revisão deve ser aproximar a versão contemporânea de uma correspondência **1:1 com a edição-base**, modernizando a linguagem sem resumir passagens, eliminar argumentos ou omitir seções.
+
+
 ## Minha posição
 
 Disponibilizar este texto não significa endossá-lo.

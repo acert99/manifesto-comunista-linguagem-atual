@@ -48,7 +48,7 @@ A expressão **“luta de classes”**, por exemplo, não foi substituída por a
 
 ## O que esta edição é — e o que ela não é
 
-Esta é uma **versão de leitura em linguagem contemporânea**, produzida com auxílio de inteligência artificial a partir de uma edição em português que está preservada neste repositório.
+A versão principal do repositório é agora a **v2 integral em português contemporâneo**, produzida com auxílio de inteligência artificial e auditada contra duas referências: a tradução inglesa de 1888, de Samuel Moore em cooperação com Friedrich Engels, e a edição-base em português usada no início do projeto.
 
 Ela **não é**:
 
@@ -66,8 +66,8 @@ Mesmo assim, toda atualização de linguagem envolve decisões editoriais. Por i
 
 | Formato | Arquivo |
 |---|---|
-| Versão atualizada em Markdown | [manifesto.md](./manifesto.md) |
-| Versão atualizada em PDF | arquivo binário preparado; consulte a observação abaixo |
+| Versão integral v2 em Markdown | [manifesto.md](./manifesto.md) |
+| Versão integral v2 em PDF | arquivo gerado com 32 páginas; consulte a observação sobre binários abaixo |
 | Versão para navegador | [index.html](./index.html) |
 | Edição-base usada no projeto | [identificação e verificação da fonte](./sources/README.md) |
 | Metodologia e transparência | [NOTICE.md](./NOTICE.md) |
@@ -77,30 +77,26 @@ Mesmo assim, toda atualização de linguagem envolve decisões editoriais. Por i
 
 ## Comparação entre versões
 
-A auditoria foi ampliada com uma segunda fonte: a edição inglesa disponível no **Marxists Internet Archive**, baseada na tradução de Samuel Moore realizada em cooperação com Friedrich Engels em 1888.
+A primeira versão deste projeto cumpriu o objetivo de facilitar a leitura, mas a auditoria mostrou que ela condensava partes importantes do texto. Por isso ela foi arquivada e substituída pela **v2 integral**.
 
-Isso corrigiu uma fragilidade da comparação anterior: **número de páginas do arquivo não é o mesmo que número de páginas do Manifesto**.
+| Métrica reproduzível | v1 condensada | v2 integral | Variação |
+|---|---:|---:|---:|
+| Palavras* | 6.037 | 10.544 | +74,7% |
+| Caracteres | 42.042 | 72.787 | +73,1% |
+| Blocos de texto | 279 | 451 | +61,6% |
+| Preâmbulo do “espectro” | não | sim | restaurado |
+| Partes principais | 4 | 4 | mantidas |
+| PDF gerado | 16 páginas | 32 páginas | +100% |
 
-O PDF do Marxists Internet Archive possui 68 páginas, mas o texto principal do Manifesto ocupa aproximadamente 21 páginas. O restante reúne introdução editorial, sete prefácios históricos, textos preparatórios e documentos relacionados.
+\* Contagem feita por expressão regular Unicode sobre os arquivos Markdown do próprio repositório. Ela é usada aqui para permitir reprodução do número e pode variar ligeiramente em relação a contadores de editores de texto.
 
-| Item | Edição-base PT | MIA — PDF completo | MIA — Manifesto | v1 contemporânea |
-|---|---:|---:|---:|---:|
-| Páginas do arquivo | 68 | 68 | ~21 | 16 |
-| Idioma | português | inglês | inglês | português |
-| Partes principais | 4 | 4 | 4 | 4 |
-| Prefácios e anexos | precisam ser separados na auditoria | extensos | não | não |
-| Preâmbulo antes da Parte I | em verificação na edição-base | sim | sim | não |
-| Palavras da v1 | — | — | — | 6.100 |
+A v2 restaura passagens que haviam sido resumidas ou omitidas, incluindo o preâmbulo, o lumpemproletariado, a discussão detalhada sobre capital e trabalho assalariado, a afirmação sobre os “nove décimos”, as objeções sobre família, educação, nacionalidade, religião e moral, as dez medidas da Parte II e o desenvolvimento completo das correntes criticadas na Parte III.
 
-A comparação textual também mostrou que a v1 está **condensada**. Ela preserva os principais conceitos e a estrutura geral, mas omite ou reúne passagens argumentativamente distintas.
+A comparação com o Marxists Internet Archive também corrigiu outro ponto metodológico: **um PDF de 68 páginas não significa que o Manifesto tenha 68 páginas**. A edição do MIA reúne, além do Manifesto, introdução editorial, prefácios históricos e documentos complementares. O texto principal deve ser comparado separadamente desses materiais.
 
-Por isso, a classificação editorial mais precisa hoje é:
+A v1 permanece disponível em [versions/v1-condensada.md](./versions/v1-condensada.md). A edição integral está em [manifesto.md](./manifesto.md) e também em [versions/v2-integral.md](./versions/v2-integral.md).
 
-> **adaptação condensada em português contemporâneo, preservando o vocabulário conceitual central.**
-
-O objetivo da próxima versão é chegar a uma modernização **integral e parágrafo a parágrafo**, sem resumir o conteúdo.
-
-Veja a auditoria detalhada em [COMPARISON.md](./COMPARISON.md) e a documentação da fonte inglesa em [sources/marxists-internet-archive.md](./sources/marxists-internet-archive.md).
+Veja a auditoria detalhada em [COMPARISON.md](./COMPARISON.md).
 
 ## Minha posição
 

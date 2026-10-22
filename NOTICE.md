@@ -47,3 +47,15 @@ Leitores são incentivados a comparar passagens relevantes com o PDF-base. Caso 
 O texto de Marx e Engels é uma obra histórica antiga, mas edições, traduções, notas editoriais e outros elementos de publicações específicas podem possuir regimes próprios de direitos autorais. Este repositório não pretende atribuir a terceiros uma licença que o mantenedor não possua.
 
 Antes de reutilizar comercialmente a edição-base ou trechos derivados de uma tradução específica, verifique a situação jurídica da publicação correspondente.
+
+## Fonte cruzada adicionada posteriormente
+
+Além da edição-base em português, o projeto passou a consultar a edição inglesa do Marxists Internet Archive:
+
+https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf
+
+Essa referência é baseada na tradução de Samuel Moore, feita em cooperação com Friedrich Engels em 1888, e foi usada para auditar estrutura, omissões e condensações da v1.
+
+A consulta mostrou que a v1 não é uma modernização integral parágrafo a parágrafo. Ela deve ser descrita como uma adaptação condensada até que uma revisão integral seja concluída.
+
+Veja [COMPARISON.md](./COMPARISON.md).
